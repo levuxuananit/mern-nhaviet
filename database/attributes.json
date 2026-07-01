@@ -1,0 +1,1555 @@
+[{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a1"
+  },
+  "id": "29tq81zcluxlnoat",
+  "price": "1.2 triệu/tháng",
+  "acreage": "30m2",
+  "published": "6 giờ trước",
+  "hashtag": "603516",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a2"
+  },
+  "id": "29tq81zcluxlnoay",
+  "price": "1.4 triệu/tháng",
+  "acreage": "25m2",
+  "published": "Hôm nay",
+  "hashtag": "605019",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a3"
+  },
+  "id": "29tq81zcluxlnob3",
+  "price": "900.000 đồng/tháng",
+  "acreage": "28m2",
+  "published": "Hôm nay",
+  "hashtag": "605018",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a4"
+  },
+  "id": "29tq81zcluxlnob8",
+  "price": "2 triệu/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "58962",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a5"
+  },
+  "id": "29tq81zcluxlnobd",
+  "price": "1.7 triệu/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "603145",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a6"
+  },
+  "id": "29tq81zcluxlnobi",
+  "price": "4.5 triệu/tháng",
+  "acreage": "22m2",
+  "published": "Hôm nay",
+  "hashtag": "83144",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a7"
+  },
+  "id": "29tq81zcluxlnobn",
+  "price": "3.9 triệu/tháng",
+  "acreage": "25m2",
+  "published": "5 giờ trước",
+  "hashtag": "588451",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a8"
+  },
+  "id": "29tq81zcluxlnobs",
+  "price": "1.5 triệu/tháng",
+  "acreage": "12m2",
+  "published": "Hôm nay",
+  "hashtag": "605551",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67a9"
+  },
+  "id": "29tq81zcluxlnobx",
+  "price": "5 triệu/tháng",
+  "acreage": "30m2",
+  "published": "Hôm nay",
+  "hashtag": "277052",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67aa"
+  },
+  "id": "29tq81zcluxlnoc2",
+  "price": "1.4 triệu/tháng",
+  "acreage": "30m2",
+  "published": "Hôm nay",
+  "hashtag": "605017",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ab"
+  },
+  "id": "29tq81zcluxlnoc7",
+  "price": "3.5 triệu/tháng",
+  "acreage": "24m2",
+  "published": "Hôm nay",
+  "hashtag": "282621",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ac"
+  },
+  "id": "29tq81zcluxlnocc",
+  "price": "2.3 triệu/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "311800",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ad"
+  },
+  "id": "29tq81zcluxlnoch",
+  "price": "700.000 đồng/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "294491",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ae"
+  },
+  "id": "29tq81zcluxlnocm",
+  "price": "3.8 triệu/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "605027",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67af"
+  },
+  "id": "29tq81zcluxlnocr",
+  "price": "3 triệu/tháng",
+  "acreage": "25m2",
+  "published": "Hôm nay",
+  "hashtag": "80204",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b0"
+  },
+  "id": "29tq81zcluxlnocw",
+  "price": "4.5 triệu/tháng",
+  "acreage": "20m2",
+  "published": "49 phút trước",
+  "hashtag": "598936",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b1"
+  },
+  "id": "29tq81zcluxlnod1",
+  "price": "3.2 triệu/tháng",
+  "acreage": "16m2",
+  "published": "Hôm nay",
+  "hashtag": "317927",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b2"
+  },
+  "id": "29tq81zcluxlnod6",
+  "price": "2 triệu/tháng",
+  "acreage": "16m2",
+  "published": "Hôm nay",
+  "hashtag": "310631",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b3"
+  },
+  "id": "29tq81zcluxlnodb",
+  "price": "5 triệu/tháng",
+  "acreage": "22m2",
+  "published": "Hôm nay",
+  "hashtag": "59783",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b4"
+  },
+  "id": "29tq81zcluxlnodg",
+  "price": "2.5 triệu/tháng",
+  "acreage": "27m2",
+  "published": "7 phút trước",
+  "hashtag": "66857",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b5"
+  },
+  "id": "29tq81zcluxlnodl",
+  "price": "16 triệu/tháng",
+  "acreage": "112m2",
+  "published": "1 giờ trước",
+  "hashtag": "602889",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b6"
+  },
+  "id": "29tq81zcluxlnodq",
+  "price": "10 triệu/tháng",
+  "acreage": "32m2",
+  "published": "6 giờ trước",
+  "hashtag": "605337",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b7"
+  },
+  "id": "29tq81zcluxlnodv",
+  "price": "3 triệu/tháng",
+  "acreage": "70m2",
+  "published": "8 giờ trước",
+  "hashtag": "605629",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b8"
+  },
+  "id": "29tq81zcluxlnoe0",
+  "price": "5 triệu/tháng",
+  "acreage": "30m2",
+  "published": "1 ngày trước",
+  "hashtag": "605605",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67b9"
+  },
+  "id": "29tq81zcluxlnoe5",
+  "price": "8 triệu/tháng",
+  "acreage": "100m2",
+  "published": "1 ngày trước",
+  "hashtag": "605599",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ba"
+  },
+  "id": "29tq81zcluxlnoea",
+  "price": "30 triệu/tháng",
+  "acreage": "162m2",
+  "published": "1 ngày trước",
+  "hashtag": "605594",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67bb"
+  },
+  "id": "29tq81zcluxlnoef",
+  "price": "26 triệu/tháng",
+  "acreage": "45m2",
+  "published": "2 ngày trước",
+  "hashtag": "605565",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67bc"
+  },
+  "id": "29tq81zcluxlnoek",
+  "price": "5 triệu/tháng",
+  "acreage": "30m2",
+  "published": "2 ngày trước",
+  "hashtag": "605543",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67bd"
+  },
+  "id": "29tq81zcluxlnoep",
+  "price": "30 triệu/tháng",
+  "acreage": "105m2",
+  "published": "2 ngày trước",
+  "hashtag": "602457",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67be"
+  },
+  "id": "29tq81zcluxlnoeu",
+  "price": "16 triệu/tháng",
+  "acreage": "75m2",
+  "published": "2 ngày trước",
+  "hashtag": "605265",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67bf"
+  },
+  "id": "29tq81zcluxlnoez",
+  "price": "12 triệu/tháng",
+  "acreage": "35m2",
+  "published": "2 ngày trước",
+  "hashtag": "317622",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c0"
+  },
+  "id": "29tq81zcluxlnof4",
+  "price": "16 triệu/tháng",
+  "acreage": "85m2",
+  "published": "3 ngày trước",
+  "hashtag": "605510",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c1"
+  },
+  "id": "29tq81zcluxlnof9",
+  "price": "5 triệu/tháng",
+  "acreage": "1000m2",
+  "published": "06/08/2022",
+  "hashtag": "204258",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c2"
+  },
+  "id": "29tq81zcluxlnofe",
+  "price": "20 triệu/tháng",
+  "acreage": "750m2",
+  "published": "06/08/2022",
+  "hashtag": "242440",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c3"
+  },
+  "id": "29tq81zcluxlnofj",
+  "price": "50 triệu/tháng",
+  "acreage": "110m2",
+  "published": "06/08/2022",
+  "hashtag": "605478",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c4"
+  },
+  "id": "29tq81zcluxlnofo",
+  "price": "3 triệu/tháng",
+  "acreage": "20m2",
+  "published": "03/08/2022",
+  "hashtag": "316380",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c5"
+  },
+  "id": "29tq81zcluxlnoft",
+  "price": "350.000 đồng/tháng",
+  "acreage": "999m2",
+  "published": "03/08/2022",
+  "hashtag": "605309",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c6"
+  },
+  "id": "29tq81zcluxlnofy",
+  "price": "20 triệu/tháng",
+  "acreage": "151m2",
+  "published": "05/08/2022",
+  "hashtag": "605411",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c7"
+  },
+  "id": "29tq81zcluxlnog3",
+  "price": "240 triệu/tháng",
+  "acreage": "407m2",
+  "published": "01/08/2022",
+  "hashtag": "605201",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c8"
+  },
+  "id": "29tq81zcluxlnog8",
+  "price": "18 triệu/tháng",
+  "acreage": "140m2",
+  "published": "01/08/2022",
+  "hashtag": "605178",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67c9"
+  },
+  "id": "29tq81zcluxlnogd",
+  "price": "5 triệu/tháng",
+  "acreage": "120m2",
+  "published": "Hôm nay",
+  "hashtag": "604250",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ca"
+  },
+  "id": "29tq81zcluxlnogi",
+  "price": "4.1 triệu/tháng",
+  "acreage": "21m2",
+  "published": "Hôm nay",
+  "hashtag": "296453",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67cb"
+  },
+  "id": "29tq81zcluxlnogn",
+  "price": "4.5 triệu/tháng",
+  "acreage": "25m2",
+  "published": "6 giờ trước",
+  "hashtag": "599644",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67cc"
+  },
+  "id": "29tq81zcluxlnogs",
+  "price": "6 triệu/tháng",
+  "acreage": "40m2",
+  "published": "Hôm nay",
+  "hashtag": "605655",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67cd"
+  },
+  "id": "29tq81zcluxlnogx",
+  "price": "5.5 triệu/tháng",
+  "acreage": "40m2",
+  "published": "Hôm nay",
+  "hashtag": "605648",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ce"
+  },
+  "id": "29tq81zcluxlnoh2",
+  "price": "3.5 triệu/tháng",
+  "acreage": "20m2",
+  "published": "Hôm nay",
+  "hashtag": "605646",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67cf"
+  },
+  "id": "29tq81zcluxlnoh7",
+  "price": "8.8 triệu/tháng",
+  "acreage": "50m2",
+  "published": "Hôm nay",
+  "hashtag": "605643",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d0"
+  },
+  "id": "29tq81zcluxlnohc",
+  "price": "7 triệu/tháng",
+  "acreage": "40m2",
+  "published": "Hôm nay",
+  "hashtag": "605524",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d1"
+  },
+  "id": "29tq81zcluxlnohh",
+  "price": "5.8 triệu/tháng",
+  "acreage": "32m2",
+  "published": "Hôm nay",
+  "hashtag": "605460",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d2"
+  },
+  "id": "29tq81zcluxlnohm",
+  "price": "5 triệu/tháng",
+  "acreage": "35m2",
+  "published": "8 phút trước",
+  "hashtag": "605467",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d3"
+  },
+  "id": "29tq81zcluxlnohr",
+  "price": "5 triệu/tháng",
+  "acreage": "25m2",
+  "published": "18 phút trước",
+  "hashtag": "602626",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d4"
+  },
+  "id": "29tq81zcluxlnohw",
+  "price": "6.5 triệu/tháng",
+  "acreage": "64m2",
+  "published": "58 phút trước",
+  "hashtag": "605694",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d5"
+  },
+  "id": "29tq81zcluxlnoi1",
+  "price": "5 triệu/tháng",
+  "acreage": "35m2",
+  "published": "1 giờ trước",
+  "hashtag": "605693",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d6"
+  },
+  "id": "29tq81zcluxlnoi6",
+  "price": "5.9 triệu/tháng",
+  "acreage": "70m2",
+  "published": "1 giờ trước",
+  "hashtag": "276599",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d7"
+  },
+  "id": "29tq81zcluxlnoib",
+  "price": "6.5 triệu/tháng",
+  "acreage": "20m2",
+  "published": "2 giờ trước",
+  "hashtag": "605447",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d8"
+  },
+  "id": "29tq81zcluxlnoig",
+  "price": "6.4 triệu/tháng",
+  "acreage": "30m2",
+  "published": "2 giờ trước",
+  "hashtag": "605488",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67d9"
+  },
+  "id": "29tq81zcluxlnoil",
+  "price": "7 triệu/tháng",
+  "acreage": "22m2",
+  "published": "2 giờ trước",
+  "hashtag": "605489",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67da"
+  },
+  "id": "29tq81zcluxlnoiq",
+  "price": "7.5 triệu/tháng",
+  "acreage": "40m2",
+  "published": "2 giờ trước",
+  "hashtag": "303794",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67db"
+  },
+  "id": "29tq81zcluxlnoiv",
+  "price": "7.5 triệu/tháng",
+  "acreage": "40m2",
+  "published": "2 giờ trước",
+  "hashtag": "585449",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67dc"
+  },
+  "id": "29tq81zcluxlnoj0",
+  "price": "5 triệu/tháng",
+  "acreage": "30m2",
+  "published": "2 giờ trước",
+  "hashtag": "594264",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67dd"
+  },
+  "id": "29tq81zcluxlnoj5",
+  "price": "10 triệu/tháng",
+  "acreage": "200m2",
+  "published": "Hôm nay",
+  "hashtag": "284965",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67de"
+  },
+  "id": "29tq81zcluxlnoja",
+  "price": "10 triệu/tháng",
+  "acreage": "48m2",
+  "published": "2 giờ trước",
+  "hashtag": "604539",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67df"
+  },
+  "id": "29tq81zcluxlnojf",
+  "price": "5 triệu/tháng",
+  "acreage": "48m2",
+  "published": "Hôm nay",
+  "hashtag": "595850",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e0"
+  },
+  "id": "29tq81zcluxlnojk",
+  "price": "20 triệu/tháng",
+  "acreage": "363m2",
+  "published": "Hôm nay",
+  "hashtag": "604998",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e1"
+  },
+  "id": "29tq81zcluxlnojp",
+  "price": "17 triệu/tháng",
+  "acreage": "112m2",
+  "published": "1 giờ trước",
+  "hashtag": "283266",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e2"
+  },
+  "id": "29tq81zcluxlnoju",
+  "price": "7.5 triệu/tháng",
+  "acreage": "70m2",
+  "published": "1 giờ trước",
+  "hashtag": "602514",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e3"
+  },
+  "id": "29tq81zcluxlnojz",
+  "price": "7 triệu/tháng",
+  "acreage": "31m2",
+  "published": "1 giờ trước",
+  "hashtag": "605692",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e4"
+  },
+  "id": "29tq81zcluxlnok4",
+  "price": "5 triệu/tháng",
+  "acreage": "90m2",
+  "published": "5 giờ trước",
+  "hashtag": "605675",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e5"
+  },
+  "id": "29tq81zcluxlnok9",
+  "price": "8 triệu/tháng",
+  "acreage": "80m2",
+  "published": "16 giờ trước",
+  "hashtag": "605654",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e6"
+  },
+  "id": "29tq81zcluxlnoke",
+  "price": "6 triệu/tháng",
+  "acreage": "100m2",
+  "published": "23 giờ trước",
+  "hashtag": "605639",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e7"
+  },
+  "id": "29tq81zcluxlnokj",
+  "price": "40 triệu/tháng",
+  "acreage": "450m2",
+  "published": "1 ngày trước",
+  "hashtag": "605638",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e8"
+  },
+  "id": "29tq81zcluxlnoko",
+  "price": "4 triệu/tháng",
+  "acreage": "102m2",
+  "published": "1 ngày trước",
+  "hashtag": "605625",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67e9"
+  },
+  "id": "29tq81zcluxlnokt",
+  "price": "6 triệu/tháng",
+  "acreage": "100m2",
+  "published": "1 ngày trước",
+  "hashtag": "605621",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ea"
+  },
+  "id": "29tq81zcluxlnoky",
+  "price": "12 triệu/tháng",
+  "acreage": "200m2",
+  "published": "1 ngày trước",
+  "hashtag": "605610",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67eb"
+  },
+  "id": "29tq81zcluxlnol3",
+  "price": "8 triệu/tháng",
+  "acreage": "30m2",
+  "published": "1 ngày trước",
+  "hashtag": "605603",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ec"
+  },
+  "id": "29tq81zcluxlnol8",
+  "price": "4.2 triệu/tháng",
+  "acreage": "55m2",
+  "published": "1 ngày trước",
+  "hashtag": "599068",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ed"
+  },
+  "id": "29tq81zcluxlnold",
+  "price": "7 triệu/tháng",
+  "acreage": "30m2",
+  "published": "1 ngày trước",
+  "hashtag": "605585",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ee"
+  },
+  "id": "29tq81zcluxlnoli",
+  "price": "20 triệu/tháng",
+  "acreage": "150m2",
+  "published": "1 ngày trước",
+  "hashtag": "605577",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67ef"
+  },
+  "id": "29tq81zcluxlnoln",
+  "price": "16 triệu/tháng",
+  "acreage": "100m2",
+  "published": "1 ngày trước",
+  "hashtag": "605576",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f3715be4ce0a0329c67f0"
+  },
+  "id": "29tq81zcluxlnols",
+  "price": "28 triệu/tháng",
+  "acreage": "300m2",
+  "published": "1 ngày trước",
+  "hashtag": "605575",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f480f135b9f2a2839030e"
+  },
+  "id": "15fd0yo2d1om3rffjef",
+  "price": "33 đồng/tháng",
+  "acreage": "33 m2",
+  "published": "21/11/2024",
+  "hashtag": "#991346",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:43.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:43.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4819135b9f2a28390316"
+  },
+  "id": "15fd0yo2d1om3rffr81",
+  "price": "33 đồng/tháng",
+  "acreage": "33 m2",
+  "published": "21/11/2024",
+  "hashtag": "#243633",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:53.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:53.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f481b135b9f2a2839031e"
+  },
+  "id": "15fd0yo2d1om3rffsnc",
+  "price": "33 đồng/tháng",
+  "acreage": "33 m2",
+  "published": "21/11/2024",
+  "hashtag": "#343574",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:55.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:55.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c07135b9f2a28390443"
+  },
+  "id": "15fd0yo2d1om3rg1byy",
+  "price": "123.00000000000001 đồng/tháng",
+  "acreage": "123 m2",
+  "published": "21/11/2024",
+  "hashtag": "#430205",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:39.901Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:39.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0d135b9f2a2839044b"
+  },
+  "id": "15fd0yo2d1om3rg1gex",
+  "price": "123.00000000000001 đồng/tháng",
+  "acreage": "123 m2",
+  "published": "21/11/2024",
+  "hashtag": "#255846",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:45.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:45.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a28390453"
+  },
+  "id": "15fd0yo2d1om3rg1gy2",
+  "price": "123.00000000000001 đồng/tháng",
+  "acreage": "123 m2",
+  "published": "21/11/2024",
+  "hashtag": "#375499",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a2839045b"
+  },
+  "id": "15fd0yo2d1om3rg1h2f",
+  "price": "123.00000000000001 đồng/tháng",
+  "acreage": "123 m2",
+  "published": "21/11/2024",
+  "hashtag": "#527711",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a28390463"
+  },
+  "id": "15fd0yo2d1om3rg1h6m",
+  "price": "123.00000000000001 đồng/tháng",
+  "acreage": "123 m2",
+  "published": "21/11/2024",
+  "hashtag": "#518718",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.656Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67407766ab5efc485bd16776"
+  },
+  "id": "15fd0yo1d4sm3spnyy1",
+  "price": "122222.222222 triệu/tháng",
+  "acreage": "222 m2",
+  "published": "22/11/2024",
+  "hashtag": "#54661",
+  "createdAt": {
+    "$date": "2024-11-22T12:21:58.853Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:21:58.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740b0287e4765e0aa10d9a3"
+  },
+  "id": "15fd0yodrgm3sybeh6",
+  "price": "10000 đồng/tháng",
+  "acreage": "10000 m2",
+  "published": "22/11/2024",
+  "hashtag": "#359477",
+  "createdAt": {
+    "$date": "2024-11-22T16:24:08.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:24:08.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740b69a7e4765e0aa10dc77"
+  },
+  "id": "15fd0yodrgm3szaqw9",
+  "price": "100000 đồng/tháng",
+  "acreage": "100 m2",
+  "published": "22/11/2024",
+  "hashtag": "#214748",
+  "createdAt": {
+    "$date": "2024-11-22T16:51:38.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:51:38.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6754ff1235ce1b774acd388e"
+  },
+  "id": "15fd0yodt8m4eypoaq",
+  "price": "1.5 triệu/tháng",
+  "acreage": "20 m2",
+  "published": "08/12/2024",
+  "hashtag": "#485788",
+  "createdAt": {
+    "$date": "2024-12-08T02:06:10.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T02:06:10.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67550bb435ce1b774acd3aa2"
+  },
+  "id": "15fd0yodt8m4f0mzso",
+  "price": "1 triệu/tháng",
+  "acreage": "20 m2",
+  "published": "08/12/2024",
+  "hashtag": "#708442",
+  "createdAt": {
+    "$date": "2024-12-08T03:00:04.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T03:00:04.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e6ab1f4f9ba4e78f8bd06"
+  },
+  "id": "15fd0yo13cwm4p6a5bw",
+  "price": "1.5 triệu/tháng",
+  "acreage": "25 m2",
+  "published": "15/12/2024",
+  "hashtag": "#994282",
+  "createdAt": {
+    "$date": "2024-12-15T05:35:45.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T05:35:45.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6843a47afe66b309785adfea"
+  },
+  "id": "15fd0yo1z0omblmb95x",
+  "price": "4 triệu/tháng",
+  "acreage": "30 m2",
+  "published": "07/06/2025",
+  "hashtag": "#989838",
+  "createdAt": {
+    "$date": "2025-06-07T02:31:22.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-07T02:31:22.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6846e948bf50660304f88fe2"
+  },
+  "id": "15fd0yo504gmbp5ursi",
+  "price": "3 triệu/tháng",
+  "acreage": "20 m2",
+  "published": "09/06/2025",
+  "hashtag": "#492311",
+  "createdAt": {
+    "$date": "2025-06-09T14:01:44.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-09T14:01:44.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c3ef5d281afc12e8592e"
+  },
+  "id": "15fd0yovkgmbs97udt",
+  "price": "10 triệu/tháng",
+  "acreage": "25 m2",
+  "published": "12/06/2025",
+  "hashtag": "#166286",
+  "createdAt": {
+    "$date": "2025-06-11T17:59:11.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:59:11.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c8dc1d5e59806d5f08bf"
+  },
+  "id": "15fd0yo1m00mbs9yveb",
+  "price": "20 triệu/tháng",
+  "acreage": "30 m2",
+  "published": "12/06/2025",
+  "hashtag": "#447865",
+  "createdAt": {
+    "$date": "2025-06-11T18:20:12.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:20:12.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849ca101d5e59806d5f094e"
+  },
+  "id": "15fd0yo1m00mbsa5hbv",
+  "price": "4 triệu/tháng",
+  "acreage": "20 m2",
+  "published": "12/06/2025",
+  "hashtag": "#404686",
+  "createdAt": {
+    "$date": "2025-06-11T18:25:20.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:25:20.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cb6c1d5e59806d5f0993"
+  },
+  "id": "15fd0yo1m00mbsacxsw",
+  "price": "100000 đồng/tháng",
+  "acreage": "25 m2",
+  "published": "12/06/2025",
+  "hashtag": "#358237",
+  "createdAt": {
+    "$date": "2025-06-11T18:31:08.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:31:08.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849d0f71f91a3f3d8c0ce5c"
+  },
+  "id": "15fd0yo22ngmbsb7cjc",
+  "price": "3 triệu/tháng",
+  "acreage": "25 m2",
+  "published": "12/06/2025",
+  "hashtag": "#303397",
+  "createdAt": {
+    "$date": "2025-06-11T18:54:47.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:54:47.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c59caf8fa6c77151afc38"
+  },
+  "id": "15fd0yog9ombv23f62",
+  "price": "233333 đồng/tháng",
+  "acreage": "23 m2",
+  "published": "14/06/2025",
+  "hashtag": "#489198",
+  "createdAt": {
+    "$date": "2025-06-13T17:03:06.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:06.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c59fef8fa6c77151afc61"
+  },
+  "id": "15fd0yog9ombv24jx2",
+  "price": "2500 đồng/tháng",
+  "acreage": "23 m2",
+  "published": "14/06/2025",
+  "hashtag": "#827706",
+  "createdAt": {
+    "$date": "2025-06-13T17:03:58.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:58.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5a38f8fa6c77151afc72"
+  },
+  "id": "15fd0yog9ombv25sjk",
+  "price": "2 triệu/tháng",
+  "acreage": "30 m2",
+  "published": "14/06/2025",
+  "hashtag": "#98842",
+  "createdAt": {
+    "$date": "2025-06-13T17:04:56.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:04:56.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5d95f8fa6c77151b00c9"
+  },
+  "id": "15fd0yog9ombv2o8pw",
+  "price": "500000 đồng/tháng",
+  "acreage": "40 m2",
+  "published": "14/06/2025",
+  "hashtag": "#842130",
+  "createdAt": {
+    "$date": "2025-06-13T17:19:17.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:19:17.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5e1ff8fa6c77151b00da"
+  },
+  "id": "15fd0yog9ombv2r76k",
+  "price": "5 triệu/tháng",
+  "acreage": "30 m2",
+  "published": "14/06/2025",
+  "hashtag": "#680149",
+  "createdAt": {
+    "$date": "2025-06-13T17:21:35.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:21:35.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5f5ff8fa6c77151b0179"
+  },
+  "id": "15fd0yog9ombv2y2b6",
+  "price": "5 triệu/tháng",
+  "acreage": "40 m2",
+  "published": "14/06/2025",
+  "hashtag": "#420506",
+  "createdAt": {
+    "$date": "2025-06-13T17:26:55.796Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:26:55.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d6e9209ac52b670f4288c"
+  },
+  "id": "15fd0yo26tombw8a42e",
+  "price": "3 triệu/tháng",
+  "acreage": "40 m2",
+  "published": "14/06/2025",
+  "hashtag": "#462607",
+  "createdAt": {
+    "$date": "2025-06-14T12:44:02.212Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:44:02.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68538ef9cda7837cfdf9d0f5"
+  },
+  "id": "15fd0yo3tmwmc2vbwi2",
+  "price": "5 triệu/tháng",
+  "acreage": "40 m2",
+  "published": "19/06/2025",
+  "hashtag": "#683547",
+  "createdAt": {
+    "$date": "2025-06-19T04:15:53.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T04:15:53.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68549de3372d2c92d6369652"
+  },
+  "id": "15fd0yoctomc40mdu4",
+  "price": "15 đồng/tháng",
+  "acreage": "65 m2",
+  "published": "20/06/2025",
+  "hashtag": "#1046",
+  "createdAt": {
+    "$date": "2025-06-19T23:31:47.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T23:31:47.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a05fc264e275d4d1d49f"
+  },
+  "id": "15fd0yombomc4100n0",
+  "price": "2.5 triệu/tháng",
+  "acreage": "20 m2",
+  "published": "20/06/2025",
+  "hashtag": "#226825",
+  "createdAt": {
+    "$date": "2025-06-19T23:42:23.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T23:42:23.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a92d1a8426282b517866"
+  },
+  "id": "15fd0yovh0mc42cc7k",
+  "price": "2.3 triệu/tháng",
+  "acreage": "22 m2",
+  "published": "20/06/2025",
+  "hashtag": "#390454",
+  "createdAt": {
+    "$date": "2025-06-20T00:19:57.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T00:19:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854d179624ec8b3573b1149"
+  },
+  "id": "15fd0yo7scmc48hfmn",
+  "price": "3.5 triệu/tháng",
+  "acreage": "25 m2",
+  "published": "20/06/2025",
+  "hashtag": "#539009",
+  "createdAt": {
+    "$date": "2025-06-20T03:11:53.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T03:11:53.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854e134624ec8b3573b14d1"
+  },
+  "id": "15fd0yo7scmc4avr94",
+  "price": "2.7 triệu/tháng",
+  "acreage": "32 m2",
+  "published": "20/06/2025",
+  "hashtag": "#435862",
+  "createdAt": {
+    "$date": "2025-06-20T04:19:00.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:26:21.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d77d24f34bd3dc023bee"
+  },
+  "id": "15fd0yo3guwmefptkuy",
+  "price": "100000 đồng/tháng",
+  "acreage": "10 m2",
+  "published": "17/08/2025",
+  "hashtag": "#803736",
+  "createdAt": {
+    "$date": "2025-08-17T13:22:05.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-17T13:22:05.951Z"
+  },
+  "__v": 0
+}]

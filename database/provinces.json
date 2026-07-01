@@ -1,0 +1,332 @@
+[{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c691f"
+  },
+  "id": 1,
+  "code": "CUID",
+  "value": "Thành phố Hồ Chí Minh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2024-11-22T16:51:38.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c6920"
+  },
+  "id": 2,
+  "code": "NDOE",
+  "value": "Thành phố Hà Nội",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2025-06-11T18:31:08.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c6921"
+  },
+  "id": 3,
+  "code": "NUDD",
+  "value": "Bình Dương",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c6922"
+  },
+  "id": 4,
+  "code": "NNNE",
+  "value": "Đồng Nai",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c6923"
+  },
+  "id": 5,
+  "code": "NNAE",
+  "value": "Thành phố Đà Nẵng",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2024-11-22T12:21:58.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3751be4ce0a0329c6924"
+  },
+  "id": 6,
+  "code": "NUĐD",
+  "value": "Bình Định",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "6740b028b75d37fe711ab973"
+  },
+  "value": "Thành phố Cần Thơ",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-22T16:24:08.977Z"
+  },
+  "id": "15fd0yodrgm3sybehe",
+  "updatedAt": {
+    "$date": "2024-11-22T16:24:08.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754ff126881c027d52124f7"
+  },
+  "value": "Nghệ An",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T02:06:10.787Z"
+  },
+  "id": "15fd0yodt8m4eypobo",
+  "updatedAt": {
+    "$date": "2024-12-08T02:06:10.787Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67550bb46881c027d52124f8"
+  },
+  "value": "Thành phố Vũng Tàu",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T03:00:04.948Z"
+  },
+  "id": "15fd0yodt8m4f0mztg",
+  "updatedAt": {
+    "$date": "2024-12-08T03:00:04.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675e6ab1bb59d72bbd1d1869"
+  },
+  "value": "Đăk Lắk",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-15T05:35:45.083Z"
+  },
+  "id": "15fd0yo13cwm4p6a5dp",
+  "updatedAt": {
+    "$date": "2024-12-15T05:35:45.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843a47a9b004704b317ab5e"
+  },
+  "value": "Lâm Đồng",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-07T02:31:22.184Z"
+  },
+  "id": "15fd0yo1z0omblmb96x",
+  "updatedAt": {
+    "$date": "2025-06-07T02:31:22.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6846e9489b004704b317ab60"
+  },
+  "value": "Kiên Giang",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-09T14:01:44.020Z"
+  },
+  "id": "15fd0yo504gmbp5urth",
+  "updatedAt": {
+    "$date": "2025-06-09T14:01:44.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6849c3ef4537142ac15b0b30"
+  },
+  "value": "Bình Phước",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T17:59:11.276Z"
+  },
+  "id": "15fd0yovkgmbs97uek",
+  "updatedAt": {
+    "$date": "2025-06-11T17:59:11.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6849c8dc4537142ac15b0b32"
+  },
+  "value": "Thành phố Hải Phòng",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:20:12.296Z"
+  },
+  "id": "15fd0yo1m00mbs9yvex",
+  "updatedAt": {
+    "$date": "2025-06-11T18:20:12.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6849ca104537142ac15b0b34"
+  },
+  "value": "Huế",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:25:20.640Z"
+  },
+  "id": "15fd0yo1m00mbsa5hc0",
+  "updatedAt": {
+    "$date": "2025-06-11T18:25:20.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6849d0f74537142ac15b0b36"
+  },
+  "value": "Thành phố Hà Nội",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:54:47.365Z"
+  },
+  "id": "15fd0yo22ngmbsb7cjp",
+  "updatedAt": {
+    "$date": "2025-06-11T18:54:47.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c59ca1f2ee54ef23824c7"
+  },
+  "value": "Gia Lai",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:03:06.221Z"
+  },
+  "id": "15fd0yog9ombv23f8u",
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:06.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c59fe1f2ee54ef23824c9"
+  },
+  "value": "Tuyên Quang",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:03:58.943Z"
+  },
+  "id": "15fd0yog9ombv24jxc",
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:58.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c5a381f2ee54ef23824ca"
+  },
+  "value": "Hà Tĩnh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:04:56.774Z"
+  },
+  "id": "15fd0yog9ombv25sjq",
+  "updatedAt": {
+    "$date": "2025-06-13T17:04:56.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c5d951f2ee54ef23824cb"
+  },
+  "value": "Bạc Liêu",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:19:17.546Z"
+  },
+  "id": "15fd0yog9ombv2o8q2",
+  "updatedAt": {
+    "$date": "2025-06-13T17:19:17.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c5e1f1f2ee54ef23824cd"
+  },
+  "value": "Nam Định",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:21:35.521Z"
+  },
+  "id": "15fd0yog9ombv2r76p",
+  "updatedAt": {
+    "$date": "2025-06-13T17:21:35.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684c5f5f1f2ee54ef23824cf"
+  },
+  "value": "Quy Nhơn",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:26:55.800Z"
+  },
+  "id": "15fd0yog9ombv2y2bc",
+  "updatedAt": {
+    "$date": "2025-06-13T17:26:55.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684d6e921f2ee54ef23824d0"
+  },
+  "value": "Khánh Hòa",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-14T12:44:02.219Z"
+  },
+  "id": "15fd0yo26tombw8a430",
+  "updatedAt": {
+    "$date": "2025-06-14T12:44:02.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68538ef9d2040db4c48c3988"
+  },
+  "value": "Đồng Tháp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-19T04:15:53.978Z"
+  },
+  "id": "15fd0yo3tmwmc2vbwje",
+  "updatedAt": {
+    "$date": "2025-06-19T04:15:53.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68549de39297c061915eccff"
+  },
+  "value": "Long An",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-19T23:31:47.232Z"
+  },
+  "id": "15fd0yoctomc40mdup",
+  "updatedAt": {
+    "$date": "2025-06-19T23:31:47.232Z"
+  }
+}]

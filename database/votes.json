@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "6753fdb335ce1b774acd36b8"
+  },
+  "uid": "15fd0yo2d1om3rczklg",
+  "pid": "29tq81zcluxlnoas",
+  "score": 3,
+  "comment": "",
+  "id": "15fd0yodt8m4dvhhf7",
+  "createdAt": {
+    "$date": "2024-12-07T07:48:03.572Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T07:48:03.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67550c0035ce1b774acd3af1"
+  },
+  "uid": "15fd0yo20b0m3sq57lt",
+  "pid": "15fd0yodt8m4f0mzsu",
+  "score": 4,
+  "comment": "",
+  "id": "15fd0yodt8m4f0omgf",
+  "createdAt": {
+    "$date": "2024-12-08T03:01:20.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T03:01:20.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683dc6c0073832e3fa0a97e6"
+  },
+  "uid": "15fd0yo2d1om3rczklg",
+  "pid": "29tq81zcluxlnobc",
+  "score": 4,
+  "comment": "",
+  "id": "15fd0yo2hlgmbf9fc8m",
+  "createdAt": {
+    "$date": "2025-06-02T15:44:00.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T15:44:08.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683dc6fa073832e3fa0a983f"
+  },
+  "uid": "15fd0yo3a18m421p4mz",
+  "pid": "29tq81zcluxlnoas",
+  "score": 4,
+  "comment": "tốt quá",
+  "id": "15fd0yo2hlgmbf9gkjz",
+  "createdAt": {
+    "$date": "2025-06-02T15:44:58.127Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T15:45:14.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6843a52ffe66b309785ae060"
+  },
+  "uid": "15fd0yo2d1om3rczklg",
+  "pid": "29tq81zcluxlnof8",
+  "score": 3,
+  "comment": "",
+  "id": "15fd0yo1z0omblmf4tg",
+  "createdAt": {
+    "$date": "2025-06-07T02:34:23.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-07T02:34:23.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6847384aff852d08377ca7dc"
+  },
+  "uid": "15fd0yo2d1om3rczklg",
+  "pid": "29tq81zcluxlnoas",
+  "score": 4,
+  "comment": "tốt",
+  "id": "15fd0yofwwmbphwalr",
+  "createdAt": {
+    "$date": "2025-06-09T19:38:50.415Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-09T19:38:50.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a6301a8426282b517735"
+  },
+  "uid": "15fd0yodrgm3sy1od8",
+  "pid": "15fd0yombomc4100n3",
+  "score": 5,
+  "comment": "Đánh giá 20/6",
+  "id": "15fd0yovh0mc41vxvq",
+  "createdAt": {
+    "$date": "2025-06-20T00:07:12.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T00:07:12.711Z"
+  },
+  "__v": 0
+}]

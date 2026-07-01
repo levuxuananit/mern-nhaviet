@@ -1,0 +1,1865 @@
+[{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6874"
+  },
+  "id": "29tq81zcluxlnoaw",
+  "code": "#603516",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 4, 09:54 10/08/2022",
+  "expired": "Thứ 4, 09:54 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6875"
+  },
+  "id": "29tq81zcluxlnob1",
+  "code": "#605019",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 3, 08:36 09/08/2022",
+  "expired": "Chủ Nhật, 08:36 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6876"
+  },
+  "id": "29tq81zcluxlnob6",
+  "code": "#605018",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 3, 08:35 09/08/2022",
+  "expired": "Chủ Nhật, 08:35 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6877"
+  },
+  "id": "29tq81zcluxlnobb",
+  "code": "#58962",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 5, 14:47 04/08/2022",
+  "expired": "Thứ 7, 08:56 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6878"
+  },
+  "id": "29tq81zcluxlnobg",
+  "code": "#603145",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 7, 08:50 30/07/2022",
+  "expired": "Thứ 5, 08:50 25/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6879"
+  },
+  "id": "29tq81zcluxlnobl",
+  "code": "#83144",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 3, 09:59 12/07/2022",
+  "expired": "Thứ 5, 09:59 11/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687a"
+  },
+  "id": "29tq81zcluxlnobq",
+  "code": "#588451",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 4, 11:38 10/08/2022",
+  "expired": "Thứ 4, 11:38 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687b"
+  },
+  "id": "29tq81zcluxlnobv",
+  "code": "#605551",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 3, 16:28 09/08/2022",
+  "expired": "Thứ 4, 16:28 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687c"
+  },
+  "id": "29tq81zcluxlnoc0",
+  "code": "#277052",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 3, 14:14 09/08/2022",
+  "expired": "Chủ Nhật, 14:14 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687d"
+  },
+  "id": "29tq81zcluxlnoc5",
+  "code": "#605017",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 3, 08:33 09/08/2022",
+  "expired": "Thứ 3, 08:33 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687e"
+  },
+  "id": "29tq81zcluxlnoca",
+  "code": "#282621",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 2, 14:33 08/08/2022",
+  "expired": "Thứ 7, 14:33 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c687f"
+  },
+  "id": "29tq81zcluxlnocf",
+  "code": "#311800",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 2, 08:03 08/08/2022",
+  "expired": "Thứ 7, 08:03 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6880"
+  },
+  "id": "29tq81zcluxlnock",
+  "code": "#294491",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 2, 08:02 08/08/2022",
+  "expired": "Thứ 4, 08:02 07/09/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6881"
+  },
+  "id": "29tq81zcluxlnocp",
+  "code": "#605027",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 6, 17:04 29/07/2022",
+  "expired": "Thứ 6, 17:04 12/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6882"
+  },
+  "id": "29tq81zcluxlnocu",
+  "code": "#80204",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Chủ Nhật, 17:41 24/07/2022",
+  "expired": "Thứ 3, 17:41 23/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6883"
+  },
+  "id": "29tq81zcluxlnocz",
+  "code": "#598936",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 2",
+  "created": "Thứ 4, 16:02 10/08/2022",
+  "expired": "Thứ 4, 16:02 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6884"
+  },
+  "id": "29tq81zcluxlnod4",
+  "code": "#317927",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 2",
+  "created": "Thứ 2, 09:16 08/08/2022",
+  "expired": "Thứ 2, 09:16 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6885"
+  },
+  "id": "29tq81zcluxlnod9",
+  "code": "#310631",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 2",
+  "created": "Thứ 7, 21:05 06/08/2022",
+  "expired": "Thứ 5, 21:05 11/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6886"
+  },
+  "id": "29tq81zcluxlnode",
+  "code": "#59783",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 2",
+  "created": "Thứ 6, 11:29 15/07/2022",
+  "expired": "Chủ Nhật, 11:29 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6887"
+  },
+  "id": "29tq81zcluxlnodj",
+  "code": "#66857",
+  "area": "Cho thuê phòng trọ Hồ Chí Minh",
+  "type": "Phòng trọ, nhà trọ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 4, 16:43 10/08/2022",
+  "expired": "Thứ 2, 16:43 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6888"
+  },
+  "id": "29tq81zcluxlnodo",
+  "code": "#602889",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:44 10/08/2022",
+  "expired": "Thứ 4, 13:44 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6889"
+  },
+  "id": "29tq81zcluxlnodt",
+  "code": "#605337",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 10:39 10/08/2022",
+  "expired": "Thứ 7, 20:49 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688a"
+  },
+  "id": "29tq81zcluxlnody",
+  "code": "#605629",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 4, 08:06 10/08/2022",
+  "expired": "Thứ 2, 08:06 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688b"
+  },
+  "id": "29tq81zcluxlnoe3",
+  "code": "#605605",
+  "area": "Cho thuê mặt bằng Hà Nội",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 10:38 09/08/2022",
+  "expired": "Thứ 3, 10:38 23/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688c"
+  },
+  "id": "29tq81zcluxlnoe8",
+  "code": "#605599",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 10:26 09/08/2022",
+  "expired": "Thứ 6, 10:26 19/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688d"
+  },
+  "id": "29tq81zcluxlnoed",
+  "code": "#605594",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 2, 23:03 08/08/2022",
+  "expired": "Thứ 7, 23:03 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688e"
+  },
+  "id": "29tq81zcluxlnoei",
+  "code": "#605565",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 16:41 08/08/2022",
+  "expired": "Thứ 5, 16:41 18/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c688f"
+  },
+  "id": "29tq81zcluxlnoen",
+  "code": "#605543",
+  "area": "Cho thuê mặt bằng Hà Nội",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 11:43 08/08/2022",
+  "expired": "Thứ 5, 11:43 18/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6890"
+  },
+  "id": "29tq81zcluxlnoes",
+  "code": "#602457",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 10:54 08/08/2022",
+  "expired": "Thứ 6, 21:24 12/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6891"
+  },
+  "id": "29tq81zcluxlnoex",
+  "code": "#605265",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 10:54 08/08/2022",
+  "expired": "Thứ 6, 21:23 12/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6892"
+  },
+  "id": "29tq81zcluxlnof2",
+  "code": "#317622",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 10:21 08/08/2022",
+  "expired": "Thứ 5, 10:21 18/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6893"
+  },
+  "id": "29tq81zcluxlnof7",
+  "code": "#605510",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Chủ Nhật, 14:08 07/08/2022",
+  "expired": "Chủ Nhật, 14:08 21/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6894"
+  },
+  "id": "29tq81zcluxlnofc",
+  "code": "#204258",
+  "area": "Cho thuê mặt bằng Đồng Nai",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 16:01 06/08/2022",
+  "expired": "Thứ 3, 16:01 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6895"
+  },
+  "id": "29tq81zcluxlnofh",
+  "code": "#242440",
+  "area": "Cho thuê mặt bằng Bình Dương",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 15:55 06/08/2022",
+  "expired": "Thứ 3, 15:55 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6896"
+  },
+  "id": "29tq81zcluxlnofm",
+  "code": "#605478",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 12:28 06/08/2022",
+  "expired": "Thứ 7, 12:28 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6897"
+  },
+  "id": "29tq81zcluxlnofr",
+  "code": "#316380",
+  "area": "Cho thuê mặt bằng Đà Nẵng",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 20:13 03/08/2022",
+  "expired": "Thứ 7, 20:13 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6898"
+  },
+  "id": "29tq81zcluxlnofw",
+  "code": "#605309",
+  "area": "Cho thuê mặt bằng Hà Nội",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:13 03/08/2022",
+  "expired": "Thứ 7, 15:13 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c6899"
+  },
+  "id": "29tq81zcluxlnog1",
+  "code": "#605411",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 6, 10:38 05/08/2022",
+  "expired": "Thứ 4, 10:38 10/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689a"
+  },
+  "id": "29tq81zcluxlnog6",
+  "code": "#605201",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 2, 15:42 01/08/2022",
+  "expired": "Thứ 7, 15:42 06/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689b"
+  },
+  "id": "29tq81zcluxlnogb",
+  "code": "#605178",
+  "area": "Cho thuê mặt bằng Hồ Chí Minh",
+  "type": "Cho thuê mặt bằng",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 10:57 01/08/2022",
+  "expired": "Thứ 2, 10:57 08/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689c"
+  },
+  "id": "29tq81zcluxlnogg",
+  "code": "#604250",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Nam",
+  "bonus": "Tin VIP nổi bật",
+  "created": "Thứ 3, 11:11 09/08/2022",
+  "expired": "Chủ Nhật, 11:11 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689d"
+  },
+  "id": "29tq81zcluxlnogl",
+  "code": "#296453",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 2",
+  "created": "Thứ 3, 10:06 09/08/2022",
+  "expired": "Thứ 3, 10:06 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689e"
+  },
+  "id": "29tq81zcluxlnogq",
+  "code": "#599644",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 4, 10:05 10/08/2022",
+  "expired": "Thứ 4, 10:05 17/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c689f"
+  },
+  "id": "29tq81zcluxlnogv",
+  "code": "#605655",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 4, 00:44 10/08/2022",
+  "expired": "Thứ 2, 00:44 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a0"
+  },
+  "id": "29tq81zcluxlnoh0",
+  "code": "#605648",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 3, 21:05 09/08/2022",
+  "expired": "Chủ Nhật, 21:05 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a1"
+  },
+  "id": "29tq81zcluxlnoh5",
+  "code": "#605646",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 3, 20:40 09/08/2022",
+  "expired": "Chủ Nhật, 20:40 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a2"
+  },
+  "id": "29tq81zcluxlnoha",
+  "code": "#605643",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 3, 19:13 09/08/2022",
+  "expired": "Chủ Nhật, 19:13 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a3"
+  },
+  "id": "29tq81zcluxlnohf",
+  "code": "#605524",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Chủ Nhật, 22:02 07/08/2022",
+  "expired": "Thứ 6, 22:02 12/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a4"
+  },
+  "id": "29tq81zcluxlnohk",
+  "code": "#605460",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 7, 01:25 06/08/2022",
+  "expired": "Thứ 3, 01:25 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a5"
+  },
+  "id": "29tq81zcluxlnohp",
+  "code": "#605467",
+  "area": "Cho thuê căn hộ mini Hồ Chí Minh",
+  "type": "Cho thuê căn hộ mini",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 16:51 10/08/2022",
+  "expired": "Thứ 3, 09:50 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a6"
+  },
+  "id": "29tq81zcluxlnohu",
+  "code": "#602626",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 16:42 10/08/2022",
+  "expired": "Thứ 7, 16:42 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a7"
+  },
+  "id": "29tq81zcluxlnohz",
+  "code": "#605694",
+  "area": "Cho thuê căn hộ Bình Định",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 4, 16:02 10/08/2022",
+  "expired": "Thứ 2, 16:02 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a8"
+  },
+  "id": "29tq81zcluxlnoi4",
+  "code": "#605693",
+  "area": "Cho thuê căn hộ mini Hồ Chí Minh",
+  "type": "Cho thuê căn hộ mini",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:52 10/08/2022",
+  "expired": "Thứ 7, 15:52 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68a9"
+  },
+  "id": "29tq81zcluxlnoi9",
+  "code": "#276599",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:44 10/08/2022",
+  "expired": "Thứ 4, 10:08 24/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68aa"
+  },
+  "id": "29tq81zcluxlnoie",
+  "code": "#605447",
+  "area": "Cho thuê căn hộ mini Hồ Chí Minh",
+  "type": "Cho thuê căn hộ mini",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:27 10/08/2022",
+  "expired": "Thứ 2, 22:09 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68ab"
+  },
+  "id": "29tq81zcluxlnoij",
+  "code": "#605488",
+  "area": "Cho thuê căn hộ mini Hồ Chí Minh",
+  "type": "Cho thuê căn hộ mini",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:26 10/08/2022",
+  "expired": "Thứ 3, 16:25 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68ac"
+  },
+  "id": "29tq81zcluxlnoio",
+  "code": "#605489",
+  "area": "Cho thuê căn hộ mini Hồ Chí Minh",
+  "type": "Cho thuê căn hộ mini",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:26 10/08/2022",
+  "expired": "Thứ 3, 16:30 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68ad"
+  },
+  "id": "29tq81zcluxlnoit",
+  "code": "#303794",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:16 10/08/2022",
+  "expired": "Thứ 7, 14:16 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68ae"
+  },
+  "id": "29tq81zcluxlnoiy",
+  "code": "#585449",
+  "area": "Cho thuê căn hộ dịch vụ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ dịch vụ",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:14 10/08/2022",
+  "expired": "Thứ 7, 14:14 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68af"
+  },
+  "id": "29tq81zcluxlnoj3",
+  "code": "#594264",
+  "area": "Cho thuê căn hộ Hồ Chí Minh",
+  "type": "Cho thuê căn hộ",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 14:08 10/08/2022",
+  "expired": "Thứ 7, 14:08 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b0"
+  },
+  "id": "29tq81zcluxlnoj8",
+  "code": "#284965",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 1",
+  "created": "Thứ 2, 11:08 08/08/2022",
+  "expired": "Thứ 7, 11:08 13/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b1"
+  },
+  "id": "29tq81zcluxlnojd",
+  "code": "#604539",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 4, 14:16 10/08/2022",
+  "expired": "Thứ 3, 09:15 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b2"
+  },
+  "id": "29tq81zcluxlnoji",
+  "code": "#595850",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 3, 19:03 09/08/2022",
+  "expired": "Thứ 3, 19:03 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b3"
+  },
+  "id": "29tq81zcluxlnojn",
+  "code": "#604998",
+  "area": "Cho thuê nhà Bình Dương",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin VIP 3",
+  "created": "Thứ 5, 09:41 28/07/2022",
+  "expired": "Thứ 6, 09:41 12/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b4"
+  },
+  "id": "29tq81zcluxlnojs",
+  "code": "#283266",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:44 10/08/2022",
+  "expired": "Thứ 3, 19:38 23/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b5"
+  },
+  "id": "29tq81zcluxlnojx",
+  "code": "#602514",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 15:44 10/08/2022",
+  "expired": "Thứ 3, 09:18 30/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b6"
+  },
+  "id": "29tq81zcluxlnok2",
+  "code": "#605692",
+  "area": "Cho thuê nhà Hà Nội",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 4, 15:35 10/08/2022",
+  "expired": "Thứ 2, 15:35 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b7"
+  },
+  "id": "29tq81zcluxlnok7",
+  "code": "#605675",
+  "area": "Cho thuê nhà Hà Nội",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 4, 11:03 10/08/2022",
+  "expired": "Thứ 2, 11:03 15/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b8"
+  },
+  "id": "29tq81zcluxlnokc",
+  "code": "#605654",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 4, 00:00 10/08/2022",
+  "expired": "Thứ 7, 00:00 20/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68b9"
+  },
+  "id": "29tq81zcluxlnokh",
+  "code": "#605639",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 17:05 09/08/2022",
+  "expired": "Thứ 6, 17:05 19/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68ba"
+  },
+  "id": "29tq81zcluxlnokm",
+  "code": "#605638",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 3, 16:56 09/08/2022",
+  "expired": "Chủ Nhật, 16:56 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68bb"
+  },
+  "id": "29tq81zcluxlnokr",
+  "code": "#605625",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 14:21 09/08/2022",
+  "expired": "Thứ 4, 14:21 24/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68bc"
+  },
+  "id": "29tq81zcluxlnokw",
+  "code": "#605621",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 3, 13:32 09/08/2022",
+  "expired": "Chủ Nhật, 13:32 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68bd"
+  },
+  "id": "29tq81zcluxlnol1",
+  "code": "#605610",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin miễn phí",
+  "created": "Thứ 3, 11:36 09/08/2022",
+  "expired": "Chủ Nhật, 11:36 14/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68be"
+  },
+  "id": "29tq81zcluxlnol6",
+  "code": "#605603",
+  "area": "Cho thuê nhà Hà Nội",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 10:04 09/08/2022",
+  "expired": "Thứ 6, 10:04 19/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68bf"
+  },
+  "id": "29tq81zcluxlnolb",
+  "code": "#599068",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 3, 08:28 09/08/2022",
+  "expired": "Thứ 3, 15:15 16/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68c0"
+  },
+  "id": "29tq81zcluxlnolg",
+  "code": "#605585",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 20:46 08/08/2022",
+  "expired": "Thứ 5, 20:46 18/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68c1"
+  },
+  "id": "29tq81zcluxlnoll",
+  "code": "#605577",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 18:56 08/08/2022",
+  "expired": "Thứ 2, 18:56 22/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68c2"
+  },
+  "id": "29tq81zcluxlnolq",
+  "code": "#605576",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 18:52 08/08/2022",
+  "expired": "Thứ 2, 18:52 22/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f373bbe4ce0a0329c68c3"
+  },
+  "id": "29tq81zcluxlnolv",
+  "code": "#605575",
+  "area": "Cho thuê nhà Hồ Chí Minh",
+  "type": "Nhà thuê nguyên căn",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 18:49 08/08/2022",
+  "expired": "Thứ 2, 18:49 22/08/2022",
+  "createdAt": "2024-04-13 04:31:17",
+  "updatedAt": "2024-04-13 04:31:17"
+},
+{
+  "_id": {
+    "$oid": "673f480f135b9f2a28390312"
+  },
+  "id": "15fd0yo2d1om3rffjeh",
+  "code": "#991346",
+  "area": "Cho thuê căn hộ Huyện Bình Chánh",
+  "target": "Nữ",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 21:47 21/11/2024",
+  "expired": "Thứ 4, 21:47 27/11/2024",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:43.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:43.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4819135b9f2a2839031a"
+  },
+  "id": "15fd0yo2d1om3rffr83",
+  "code": "#243633",
+  "area": "Cho thuê căn hộ Huyện Bình Chánh",
+  "target": "Nữ",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 21:47 21/11/2024",
+  "expired": "Thứ 2, 21:47 2/12/2024",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:53.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:53.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f481b135b9f2a28390322"
+  },
+  "id": "15fd0yo2d1om3rffsne",
+  "code": "#343574",
+  "area": "Cho thuê căn hộ Huyện Bình Chánh",
+  "target": "Nữ",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 21:47 21/11/2024",
+  "expired": "Chủ nhật, 21:47 8/12/2024",
+  "createdAt": {
+    "$date": "2024-11-21T14:47:55.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:47:55.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c07135b9f2a28390447"
+  },
+  "id": "15fd0yo2d1om3rg1bz0",
+  "code": "#430205",
+  "area": "Cho thuê căn hộ Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 22:4 21/11/2024",
+  "expired": "Thứ 6, 22:4 20/12/2024",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:39.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:39.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0d135b9f2a2839044f"
+  },
+  "id": "15fd0yo2d1om3rg1gez",
+  "code": "#255846",
+  "area": "Cho thuê căn hộ Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 22:4 21/11/2024",
+  "expired": "Thứ 3, 22:4 10/12/2024",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:45.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:45.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a28390457"
+  },
+  "id": "15fd0yo2d1om3rg1gy4",
+  "code": "#375499",
+  "area": "Cho thuê căn hộ Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 22:4 21/11/2024",
+  "expired": "Thứ 2, 22:4 2/12/2024",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a2839045f"
+  },
+  "id": "15fd0yo2d1om3rg1h2h",
+  "code": "#527711",
+  "area": "Cho thuê căn hộ Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 22:4 21/11/2024",
+  "expired": "Thứ 6, 22:4 29/11/2024",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f4c0e135b9f2a28390467"
+  },
+  "id": "15fd0yo2d1om3rg1h6o",
+  "code": "#518718",
+  "area": "Cho thuê căn hộ Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 22:4 21/11/2024",
+  "expired": "Thứ 7, 22:4 23/11/2024",
+  "createdAt": {
+    "$date": "2024-11-21T15:04:46.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T15:04:46.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67407766ab5efc485bd1677a"
+  },
+  "id": "15fd0yo1d4sm3spnyy3",
+  "code": "#54661",
+  "area": "Cho thuê căn hộ Quận Cẩm Lệ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 19:21 22/11/2024",
+  "expired": "Thứ 5, 19:21 12/12/2024",
+  "createdAt": {
+    "$date": "2024-11-22T12:21:58.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:21:58.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740b0287e4765e0aa10d9a7"
+  },
+  "id": "15fd0yodrgm3sybeh8",
+  "code": "#359477",
+  "area": "Cho thuê mặt bằng Huyện Cờ Đỏ",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 23:24 22/11/2024",
+  "expired": "Thứ 6, 23:24 6/12/2024",
+  "createdAt": {
+    "$date": "2024-11-22T16:24:08.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:24:08.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740b69a7e4765e0aa10dc7b"
+  },
+  "id": "15fd0yodrgm3szaqwb",
+  "code": "#214748",
+  "area": "Cho thuê mặt bằng Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 23:51 22/11/2024",
+  "expired": "Thứ 3, 23:51 17/12/2024",
+  "createdAt": {
+    "$date": "2024-11-22T16:51:38.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:51:38.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6754ff1235ce1b774acd3892"
+  },
+  "id": "15fd0yodt8m4eypoas",
+  "code": "#485788",
+  "area": "Cho thuê phòng trọ Quận Thủ Đức",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Chủ nhật, 9:6 8/12/2024",
+  "expired": "Thứ 3, 9:6 24/12/2024",
+  "createdAt": {
+    "$date": "2024-12-08T02:06:10.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T02:06:10.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67550bb435ce1b774acd3aa6"
+  },
+  "id": "15fd0yodt8m4f0mzsq",
+  "code": "#708442",
+  "area": "Cho thuê phòng trọ Quận Thủ Đức",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Chủ nhật, 10:0 8/12/2024",
+  "expired": "Thứ 2, 10:0 9/12/2024",
+  "createdAt": {
+    "$date": "2024-12-08T03:00:04.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T03:00:04.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e6ab1f4f9ba4e78f8bd0a"
+  },
+  "id": "15fd0yo13cwm4p6a5by",
+  "code": "#994282",
+  "area": "Cho thuê mặt bằng Quận 9",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Chủ nhật, 12:35 15/12/2024",
+  "expired": "Thứ 2, 12:35 13/1/2025",
+  "createdAt": {
+    "$date": "2024-12-15T05:35:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T05:35:45.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6843a47afe66b309785adfee"
+  },
+  "id": "15fd0yo1z0omblmb95z",
+  "code": "#989838",
+  "area": "Nhà cho thuê Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 9:31 7/6/2025",
+  "expired": "Thứ 7, 9:31 21/6/2025",
+  "createdAt": {
+    "$date": "2025-06-07T02:31:22.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-07T02:31:22.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6846e948bf50660304f88fe6"
+  },
+  "id": "15fd0yo504gmbp5ursk",
+  "code": "#492311",
+  "area": "Cho thuê phòng trọ Quận Hải An",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 2, 21:1 9/6/2025",
+  "expired": "Thứ 6, 21:1 4/7/2025",
+  "createdAt": {
+    "$date": "2025-06-09T14:01:44.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-09T14:01:44.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c3ef5d281afc12e85932"
+  },
+  "id": "15fd0yovkgmbs97udv",
+  "code": "#166286",
+  "area": "Cho thuê mặt bằng Thị xã Phước Long",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 0:59 12/6/2025",
+  "expired": "Thứ 6, 0:59 11/7/2025",
+  "createdAt": {
+    "$date": "2025-06-11T17:59:11.274Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:59:11.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c8dc1d5e59806d5f08c3"
+  },
+  "id": "15fd0yo1m00mbs9yved",
+  "code": "#447865",
+  "area": "Cho thuê mặt bằng Quận Ngô Quyền",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 1:20 12/6/2025",
+  "expired": "Thứ 2, 1:20 30/6/2025",
+  "createdAt": {
+    "$date": "2025-06-11T18:20:12.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:20:12.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849ca101d5e59806d5f0952"
+  },
+  "id": "15fd0yo1m00mbsa5hbx",
+  "code": "#404686",
+  "area": "Cho thuê mặt bằng Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 1:25 12/6/2025",
+  "expired": "Thứ 2, 1:25 23/6/2025",
+  "createdAt": {
+    "$date": "2025-06-11T18:25:20.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:25:20.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cb6c1d5e59806d5f0997"
+  },
+  "id": "15fd0yo1m00mbsacxsy",
+  "code": "#358237",
+  "area": "Cho thuê mặt bằng Quận Ba Đình",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 1:31 12/6/2025",
+  "expired": "Thứ 6, 1:31 11/7/2025",
+  "createdAt": {
+    "$date": "2025-06-11T18:31:08.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:31:08.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849d0f71f91a3f3d8c0ce60"
+  },
+  "id": "15fd0yo22ngmbsb7cje",
+  "code": "#303397",
+  "area": "Cho thuê căn hộ Quận Hoàn Kiếm",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 1:54 12/6/2025",
+  "expired": "Thứ 6, 1:54 11/7/2025",
+  "createdAt": {
+    "$date": "2025-06-11T18:54:47.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:54:47.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c59caf8fa6c77151afc3c"
+  },
+  "id": "15fd0yog9ombv23f64",
+  "code": "#489198",
+  "area": "Cho thuê phòng trọ Quận Lê Chân",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:3 14/6/2025",
+  "expired": "Thứ 3, 0:3 1/7/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:03:06.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:06.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c59fef8fa6c77151afc65"
+  },
+  "id": "15fd0yog9ombv24jx4",
+  "code": "#827706",
+  "area": "Cho thuê mặt bằng Quận Ba Đình",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:3 14/6/2025",
+  "expired": "Thứ 4, 0:3 9/7/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:03:58.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:58.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5a38f8fa6c77151afc76"
+  },
+  "id": "15fd0yog9ombv25sjm",
+  "code": "#98842",
+  "area": "Cho thuê phòng trọ Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:4 14/6/2025",
+  "expired": "Thứ 3, 0:4 17/6/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:04:56.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:04:56.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5d95f8fa6c77151b00cd"
+  },
+  "id": "15fd0yog9ombv2o8py",
+  "code": "#842130",
+  "area": "Cho thuê căn hộ Quận Cầu Giấy",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:19 14/6/2025",
+  "expired": "Thứ 2, 0:19 30/6/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:19:17.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:19:17.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5e1ff8fa6c77151b00de"
+  },
+  "id": "15fd0yog9ombv2r76m",
+  "code": "#680149",
+  "area": "Cho thuê căn hộ Quận Hoàng Mai",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:21 14/6/2025",
+  "expired": "Thứ 2, 0:21 16/6/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:21:35.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:21:35.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5f5ff8fa6c77151b017d"
+  },
+  "id": "15fd0yog9ombv2y2b8",
+  "code": "#420506",
+  "area": "Cho thuê phòng trọ Quận Bình Thạnh",
+  "target": "Nữ",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 0:26 14/6/2025",
+  "expired": "Thứ 5, 0:26 3/7/2025",
+  "createdAt": {
+    "$date": "2025-06-13T17:26:55.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:26:55.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d6e9209ac52b670f42890"
+  },
+  "id": "15fd0yo26tombw8a42g",
+  "code": "#462607",
+  "area": "Cho thuê căn hộ Quận 9",
+  "target": "Nữ",
+  "bonus": "Tin thường",
+  "created": "Thứ 7, 19:44 14/6/2025",
+  "expired": "Thứ 6, 19:44 27/6/2025",
+  "createdAt": {
+    "$date": "2025-06-14T12:44:02.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:44:02.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68538ef9cda7837cfdf9d0f9"
+  },
+  "id": "15fd0yo3tmwmc2vbwi4",
+  "code": "#683547",
+  "area": "Cho thuê mặt bằng Quận Thanh Khê",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 5, 11:15 19/6/2025",
+  "expired": "Thứ 6, 11:15 20/6/2025",
+  "createdAt": {
+    "$date": "2025-06-19T04:15:53.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T04:15:53.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68549de3372d2c92d6369656"
+  },
+  "id": "15fd0yoctomc40mdu6",
+  "code": "#1046",
+  "area": "Cho thuê mặt bằng Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 6:31 20/6/2025",
+  "expired": "Thứ 7, 6:31 5/7/2025",
+  "createdAt": {
+    "$date": "2025-06-19T23:31:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T23:31:47.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a05fc264e275d4d1d4a3"
+  },
+  "id": "15fd0yombomc4100n2",
+  "code": "#226825",
+  "area": "Cho thuê phòng trọ Quận Thủ Đức",
+  "target": "Tất cả",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 6:42 20/6/2025",
+  "expired": "Thứ 7, 6:42 28/6/2025",
+  "createdAt": {
+    "$date": "2025-06-19T23:42:23.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T23:42:23.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a92d1a8426282b51786a"
+  },
+  "id": "15fd0yovh0mc42cc7m",
+  "code": "#390454",
+  "area": "Cho thuê phòng trọ Quận Thủ Đức",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 7:19 20/6/2025",
+  "expired": "Thứ 6, 7:19 18/7/2025",
+  "createdAt": {
+    "$date": "2025-06-20T00:19:57.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T00:19:57.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854d179624ec8b3573b114d"
+  },
+  "id": "15fd0yo7scmc48hfmp",
+  "code": "#539009",
+  "area": "Nhà cho thuê Quận Thủ Đức",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 10:11 20/6/2025",
+  "expired": "Thứ 6, 10:11 18/7/2025",
+  "createdAt": {
+    "$date": "2025-06-20T03:11:53.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T03:11:53.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854e134624ec8b3573b14d5"
+  },
+  "id": "15fd0yo7scmc4avr96",
+  "code": "#435862",
+  "area": "Nhà cho thuê Quận Thủ Đức",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Thứ 6, 11:19 20/6/2025",
+  "expired": "Thứ 2, 11:19 7/7/2025",
+  "createdAt": {
+    "$date": "2025-06-20T04:19:00.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:26:21.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d77d24f34bd3dc023bf2"
+  },
+  "id": "15fd0yo3guwmefptkv0",
+  "code": "#803736",
+  "area": "Cho thuê căn hộ Quận 1",
+  "target": "Nam",
+  "bonus": "Tin thường",
+  "created": "Chủ nhật, 20:22 17/8/2025",
+  "expired": "Thứ 3, 20:22 9/9/2025",
+  "createdAt": {
+    "$date": "2025-08-17T13:22:05.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-17T13:22:05.980Z"
+  },
+  "__v": 0
+}]

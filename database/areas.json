@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679a"
+  },
+  "id": 1,
+  "order": 2,
+  "code": "2UMD",
+  "value": "Từ 20m - 30m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679b"
+  },
+  "id": 2,
+  "order": 3,
+  "code": "3UMD",
+  "value": "Từ 30m - 50m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679c"
+  },
+  "id": 3,
+  "order": 1,
+  "code": "ON2E",
+  "value": "Dưới 20m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679d"
+  },
+  "id": 4,
+  "order": 4,
+  "code": "5UMD",
+  "value": "Từ 50m - 70m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679e"
+  },
+  "id": 5,
+  "order": 5,
+  "code": "7UMD",
+  "value": "Từ 70m - 90m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f370abe4ce0a0329c679f"
+  },
+  "id": 6,
+  "order": 6,
+  "code": "EN9E",
+  "value": "Trên 90m",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+}]

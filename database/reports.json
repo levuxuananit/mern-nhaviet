@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6854d2cb624ec8b3573b12a7"
+  },
+  "pid": "29tq81zcluxlnof8",
+  "reason": "Bài đăng thông tin không xác thực",
+  "title": "Cho thuê trang trại chăn nuôi heo, có chuồng heo xây sẵn sức chứa 300 con, hệ thống điện nước đầy đủ",
+  "uid": "29tq81zcluxlnofa",
+  "seen": false,
+  "status": "Accepted",
+  "id": "15fd0yo7scmc48ooi4",
+  "createdAt": {
+    "$date": "2025-06-20T03:17:31.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T13:27:30.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854e1a6624ec8b3573b1536"
+  },
+  "pid": "29tq81zcluxlnojy",
+  "reason": "Tin đăng không uy tín",
+  "title": "Cho thuê nhà số 24 ngõ 182 Bạch Đằng, Chương Dương, Hoàn Kiếm",
+  "uid": "29tq81zcluxlnok0",
+  "seen": false,
+  "status": "Pending",
+  "id": "15fd0yo7scmc4ay6uf",
+  "createdAt": {
+    "$date": "2025-06-20T04:20:54.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:20:54.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d4b3f19e157e5d3a445f4"
+  },
+  "pid": "15fd0yo7scmc4avr97",
+  "reason": "bài đăng tào lao",
+  "title": "CHO THUÊ NHÀ GIÁ RẺ GẦN HCMUTE",
+  "uid": "15fd0yodrgm3sy1od8",
+  "seen": false,
+  "status": "Pending",
+  "id": "15fd0yo56x4mcdf6x6j",
+  "createdAt": {
+    "$date": "2025-06-26T13:29:35.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T13:29:35.612Z"
+  },
+  "__v": 0
+}]

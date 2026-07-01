@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "673f375bbe4ce0a0329c6926"
+  },
+  "id": 1,
+  "code": "R1",
+  "value": "Quản trị viên",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f375bbe4ce0a0329c6927"
+  },
+  "id": 2,
+  "code": "R2",
+  "value": "Chủ trọ",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f375bbe4ce0a0329c6928"
+  },
+  "id": 3,
+  "code": "R3",
+  "value": "Người thuê trọ",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+}]

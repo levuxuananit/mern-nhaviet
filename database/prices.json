@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c6916"
+  },
+  "id": 1,
+  "order": 2,
+  "code": "1U2N",
+  "value": "Từ 1 - 2 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c6917"
+  },
+  "id": 2,
+  "order": 4,
+  "code": "3U5N",
+  "value": "Từ 3 - 5 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c6918"
+  },
+  "id": 3,
+  "order": 5,
+  "code": "5U7N",
+  "value": "Từ 5 - 7 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c6919"
+  },
+  "id": 4,
+  "order": 1,
+  "code": "OU1N",
+  "value": "Dưới 1 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c691a"
+  },
+  "id": 5,
+  "order": 3,
+  "code": "2U3N",
+  "value": "Từ 2 - 3 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c691b"
+  },
+  "id": 6,
+  "order": 6,
+  "code": "7U0N",
+  "value": "Từ 7 - 10 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c691c"
+  },
+  "id": 7,
+  "order": 7,
+  "code": "1E1N",
+  "value": "Từ 10 - 15 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+},
+{
+  "_id": {
+    "$oid": "673f374abe4ce0a0329c691d"
+  },
+  "id": 8,
+  "order": 8,
+  "code": "EU5N",
+  "value": "Trên 15 triệu",
+  "createdAt": "2024-04-13 04:40:28",
+  "updatedAt": "2024-04-13 04:40:28"
+}]

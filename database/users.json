@@ -1,0 +1,1629 @@
+[{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c692a"
+  },
+  "id": "29tq81zcluxlnoau",
+  "name": "Mr Bình",
+  "email": "",
+  "password": "$2a$12$0YyZUV5RJCeUQTqrZ73N7uvqZCr4z3iW2tHPqy4vqHWvqojGDUHgm",
+  "role": "R2",
+  "phone": "0936456678",
+  "zalo": "0936456678",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:23",
+  "updatedAt": {
+    "$date": "2024-11-22T16:58:45.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c692b"
+  },
+  "id": "29tq81zcluxlnoaz",
+  "name": "Văn Chung",
+  "email": "",
+  "password": "$2a$12$C97PjKS6LkWLGPHu6pWBiuxc6JfC5/.U87GeTZbzbpgHm.Bob/lxu",
+  "role": "R2",
+  "phone": "0896119779",
+  "zalo": "0896119779",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:18",
+  "updatedAt": "2024-04-13 04:31:18"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c692c"
+  },
+  "id": "29tq81zcluxlnob4",
+  "name": "Văn Chung",
+  "email": "",
+  "password": "$2a$12$5cjL8NzWg5.dEcSx0qTTU.qAzqu7HYSAhELNpjn9NYaiYD2QeDPJC",
+  "role": "R2",
+  "phone": "0896119779",
+  "zalo": "0896119779",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:19",
+  "updatedAt": "2024-04-13 04:31:19"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c692d"
+  },
+  "id": "29tq81zcluxlnob9",
+  "name": "Ken Nguyễn",
+  "email": "",
+  "password": "$2a$12$9CuIHoglD6Fd6Lb2QyBDD.8NMFH4.SYDoS9OXkvQT0/mgvYug1wk6",
+  "role": "R2",
+  "phone": "0906878018",
+  "zalo": "0906878018",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:18",
+  "updatedAt": {
+    "$date": "2025-06-26T13:26:56.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c692e"
+  },
+  "id": "29tq81zcluxlnobe",
+  "name": "Nguyễn Phạm Đức Cường",
+  "email": "",
+  "password": "$2a$12$I4k2BwVrWbDj0oY0KoqX8eLjF/HnSvjPWKI2JlnwBEmGBUEiGkjzu",
+  "role": "R2",
+  "phone": "0938864405",
+  "zalo": "0938864405",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:26",
+  "updatedAt": "2024-04-13 04:31:26"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6930"
+  },
+  "id": "29tq81zcluxlnobo",
+  "name": "VINH NGUYỄN",
+  "email": "",
+  "password": "$2a$12$oomTvq3K1qF4HND4tOFVLuYDwh2b0lR.gJBJxppAxQJBci1HZ4yZe",
+  "role": "R2",
+  "phone": "0938662616",
+  "zalo": "0938662616",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:29",
+  "updatedAt": "2024-04-13 04:31:29"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6931"
+  },
+  "id": "29tq81zcluxlnobt",
+  "name": "huỳnh thị mỹ trâm",
+  "email": "",
+  "password": "$2a$12$6NUfJ17VrnsFIXBTW0D1oeiuE20UhyJY5PAWUrqV2Ohvk.0BkZYoa",
+  "role": "R2",
+  "phone": "0916668326",
+  "zalo": "0916668326",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:20",
+  "updatedAt": "2024-04-13 04:31:20"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6932"
+  },
+  "id": "29tq81zcluxlnoby",
+  "name": "Bích Đào",
+  "email": "",
+  "password": "$2a$12$Lu5OkKdQ/I0YAZfm84/t9eCAV5GU0YqE48ALnKum0RZdiLQ56x9vm",
+  "role": "R2",
+  "phone": "0935101516",
+  "zalo": "0935101516",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:25",
+  "updatedAt": "2024-04-13 04:31:25"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6933"
+  },
+  "id": "29tq81zcluxlnoc3",
+  "name": "Văn Chung",
+  "email": "",
+  "password": "$2a$12$ihpwAuY.o75VjVPEMK9lg.gwavaya74eJ5Tqv7C8ZzjaIurq14ZKm",
+  "role": "R2",
+  "phone": "0896119779",
+  "zalo": "0896119779",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:20",
+  "updatedAt": "2024-04-13 04:31:20"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6934"
+  },
+  "id": "29tq81zcluxlnoc8",
+  "name": "Nguyen Thi Bich Thuy",
+  "email": "",
+  "password": "$2a$12$FwsYBUTfDcWJo9zov9H2kOz72cVcwNM.s84TunoUYx7HdgDtY6SQW",
+  "role": "R2",
+  "phone": "0983344682",
+  "zalo": "0983344682",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:27",
+  "updatedAt": "2024-04-13 04:31:27"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6935"
+  },
+  "id": "29tq81zcluxlnocd",
+  "name": "Hoàng Phúc",
+  "email": "",
+  "password": "$2a$12$5N.xcU/SzCKzMeDzEWRDDe/x8rGFqWM1/gX3bInOHtBtVkYe9C9WC",
+  "role": "R2",
+  "phone": "0931313570",
+  "zalo": "0931313570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:21",
+  "updatedAt": "2024-04-13 04:31:21"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6936"
+  },
+  "id": "29tq81zcluxlnoci",
+  "name": "Hoàng Phúc",
+  "email": "",
+  "password": "$2a$12$edyeFFtO08JgsjoPcltDAOqsrTXm3BW3Q.Jys0epV5chnrn2t1/8C",
+  "role": "R2",
+  "phone": "0931313570",
+  "zalo": "0931313570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:41",
+  "updatedAt": "2024-04-13 04:31:41"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6937"
+  },
+  "id": "29tq81zcluxlnocn",
+  "name": "Anh Cảnh",
+  "email": "",
+  "password": "$2a$12$pNp5bFPAFIUAVl99ZoqmXOC0GLOiL4djpXHTGKJJIUKB9sZCeB0TO",
+  "role": "R2",
+  "phone": "0913635257",
+  "zalo": "0913635257",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:26",
+  "updatedAt": "2024-04-13 04:31:26"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6938"
+  },
+  "id": "29tq81zcluxlnocs",
+  "name": "ThuecanhominiQ7",
+  "email": "",
+  "password": "$2a$12$EAmM2ZDzxEM68Ses/H88ru/i6ZmmyeN9F4Eyq9zynWlghNTJwMGcC",
+  "role": "R2",
+  "phone": "0988373731",
+  "zalo": "0988373731",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:21",
+  "updatedAt": "2024-04-13 04:31:21"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6939"
+  },
+  "id": "29tq81zcluxlnocx",
+  "name": "Loan",
+  "email": "",
+  "password": "$2a$12$QiSk9VnpLgcbcvG9aXQgJeW.dUrUn47VCXnv29BX3OemVuxPeHlm2",
+  "role": "R2",
+  "phone": "0978111919",
+  "zalo": "0978111919",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:22",
+  "updatedAt": "2024-04-13 04:31:22"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693a"
+  },
+  "id": "29tq81zcluxlnod2",
+  "name": "Chị Đoan",
+  "email": "",
+  "password": "$2a$12$8Dvixse6x/5vsSigxv0aHeq.K/AkEYMw111wdlgHqpACg3AXl864G",
+  "role": "R2",
+  "phone": "0903934756",
+  "zalo": "0903934756",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:23",
+  "updatedAt": "2024-04-13 04:31:23"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693b"
+  },
+  "id": "29tq81zcluxlnod7",
+  "name": "Cao thi cuc",
+  "email": "",
+  "password": "$2a$12$nZCs7NYu2T0AObjB8bqNrOF3dnXadPWMcVrPt4kqWE/fhiaXHNA6C",
+  "role": "R2",
+  "phone": "0909634270",
+  "zalo": "0909634270",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:27",
+  "updatedAt": "2024-04-13 04:31:27"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693c"
+  },
+  "id": "29tq81zcluxlnodc",
+  "name": "van528",
+  "email": "",
+  "password": "$2a$12$dFOySUoyGIiVeDNhSL1fYev002Khwo5bUk1TuOL96Q0qS4wZyxVni",
+  "role": "R2",
+  "phone": "0919990528",
+  "zalo": "0919990528",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:28",
+  "updatedAt": "2024-04-13 04:31:28"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693d"
+  },
+  "id": "29tq81zcluxlnodh",
+  "name": "thuyngocnt78@gmail.com",
+  "email": "",
+  "password": "$2a$12$y3jkJ3yUBHJ6vKcSLvlBiuYaotnCzG8cxr79OHLkAok2ADSGXVTYG",
+  "role": "R2",
+  "phone": "0907667248",
+  "zalo": "0907667248",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:25",
+  "updatedAt": "2024-04-13 04:31:25"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693e"
+  },
+  "id": "29tq81zcluxlnodm",
+  "name": "hoangle2706",
+  "email": "",
+  "password": "$2a$12$7RlQhQyV9g8xZoBjkxvNgemmBsd8NhpG76PvJF8oiop/ja6B1ly4.",
+  "role": "R2",
+  "phone": "0937554570",
+  "zalo": "0937554570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:35",
+  "updatedAt": "2024-04-13 04:31:35"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c693f"
+  },
+  "id": "29tq81zcluxlnodr",
+  "name": "Quang Minh Phú",
+  "email": "",
+  "password": "$2a$12$qKoaqze4n3CojEIxujULnO1m/d6/MPr9znx3r/FDEOf/Z6ZdYuMP2",
+  "role": "R2",
+  "phone": "0768919886",
+  "zalo": "0768919886",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:29",
+  "updatedAt": "2024-04-13 04:31:29"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6940"
+  },
+  "id": "29tq81zcluxlnodw",
+  "name": "Hồng Nhật",
+  "email": "",
+  "password": "$2a$12$eySunzi0HJdt/RD9TkVbq.sVX5QH3Xt9EQp6ytNxIcLG0x3IDW41C",
+  "role": "R2",
+  "phone": "0764997999",
+  "zalo": "0764997999",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:33",
+  "updatedAt": "2024-04-13 04:31:33"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6941"
+  },
+  "id": "29tq81zcluxlnoe1",
+  "name": "Trần Văn Định",
+  "email": "",
+  "password": "$2a$12$UYuRlJlwPSE9Y6UrwIuu/ek1CUM.jb2VTzYtb9xAXgESv15NJ5CR2",
+  "role": "R2",
+  "phone": "0377896738",
+  "zalo": "0377896738",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:43",
+  "updatedAt": "2024-04-13 04:31:43"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6942"
+  },
+  "id": "29tq81zcluxlnoe6",
+  "name": "Nguyễn Mỹ Cảnh",
+  "email": "",
+  "password": "$2a$12$7MvCM/U6pziKfYH/D2lNFukfrSrdgQJR.PbhQrdQ/9kcBA29qNF/.",
+  "role": "R2",
+  "phone": "0858700057",
+  "zalo": "0858700057",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:33",
+  "updatedAt": "2024-04-13 04:31:33"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6943"
+  },
+  "id": "29tq81zcluxlnoeb",
+  "name": "Trịnh Thị Ánh Tuyết",
+  "email": "",
+  "password": "$2a$12$7tUCx.Th4Gf1yrUZB6ww5.8e3QiMDs0D7EILklsNAJGSQyRrxH8t.",
+  "role": "R2",
+  "phone": "0983612733",
+  "zalo": "0983612733",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:37",
+  "updatedAt": "2024-04-13 04:31:37"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6944"
+  },
+  "id": "29tq81zcluxlnoeg",
+  "name": "NGUYỄN AN",
+  "email": "",
+  "password": "$2a$12$WNi8TVOc1LR0S5JZUHhbYex9FFL4AC9gZhV5Ujv33EsPqLRwrsque",
+  "role": "R2",
+  "phone": "0979144859",
+  "zalo": "0375174435",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:31",
+  "updatedAt": "2024-04-13 04:31:31"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6945"
+  },
+  "id": "29tq81zcluxlnoel",
+  "name": "Kim Cúc",
+  "email": "",
+  "password": "$2a$12$dSmYz3xEiAj/bIyst1/i3O1GKvDtrooDyGGpj4asVq5VJC.S5NVl2",
+  "role": "R2",
+  "phone": "0973018340",
+  "zalo": "0973018340",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:31",
+  "updatedAt": "2024-04-13 04:31:31"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6946"
+  },
+  "id": "29tq81zcluxlnoeq",
+  "name": "Trương Quang Cường Quốc",
+  "email": "",
+  "password": "$2a$12$Chjlf8hJDBtqUpG4h2JZmOx41NvAUmEyxAfBezQFbdMWaJnwjk1PO",
+  "role": "R2",
+  "phone": "0822141489",
+  "zalo": "0822141489",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:30",
+  "updatedAt": "2024-04-13 04:31:30"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6947"
+  },
+  "id": "29tq81zcluxlnoev",
+  "name": "Trương Quang Cường Quốc",
+  "email": "",
+  "password": "$2a$12$tYh4i8WH2uvoBKoeBJSozOMubIrx7PY1TKdK96PJC97UbVt0tFcpC",
+  "role": "R2",
+  "phone": "0822141489",
+  "zalo": "0822141489",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:30",
+  "updatedAt": "2024-04-13 04:31:30"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6948"
+  },
+  "id": "29tq81zcluxlnof0",
+  "name": "Huỳnh Hoàng Vũ",
+  "email": "",
+  "password": "$2a$12$XJIAwrq31dW0eIpGiQDZseKn2tFYUNxv4gPhAqSCs5oHFExyPzerC",
+  "role": "R2",
+  "phone": "0902995422",
+  "zalo": "0902995422",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:32",
+  "updatedAt": "2024-04-13 04:31:32"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6949"
+  },
+  "id": "29tq81zcluxlnof5",
+  "name": "Co Van",
+  "email": "",
+  "password": "$2a$12$YRFkn9OQzrC3doWR4ZFyVuAfeg04h3sMRgCBo6LlLAxRLks7NYHA2",
+  "role": "R2",
+  "phone": "0344268548",
+  "zalo": "0344268548",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:38",
+  "updatedAt": "2024-04-13 04:31:38"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694a"
+  },
+  "id": "29tq81zcluxlnofa",
+  "name": "thuy phan",
+  "email": "",
+  "password": "$2a$12$w8H4R3SobgykEPClsSAHtOmb6/BxzlsW6JFjGw5GdAO/ynaZ1.Y1y",
+  "role": "R2",
+  "phone": "0913609230",
+  "zalo": "0913609230",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:38",
+  "updatedAt": "2024-04-13 04:31:38"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694b"
+  },
+  "id": "29tq81zcluxlnoff",
+  "name": "thuy phan",
+  "email": "",
+  "password": "$2a$12$945EN0WVSyJSOt54Jdt7jeT1TKGUqsS7aQQd2kxW1itRtF8JOhW9q",
+  "role": "R2",
+  "phone": "0913609230",
+  "zalo": "0913609230",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:39",
+  "updatedAt": "2024-04-13 04:31:39"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694c"
+  },
+  "id": "29tq81zcluxlnofk",
+  "name": "Phan Trọng An",
+  "email": "",
+  "password": "$2a$12$on606TqV8ES2x8.5XQHkqutCqYmL8CoPfL97Kzdjz2iWMUxBrbLTW",
+  "role": "R2",
+  "phone": "0393995122",
+  "zalo": "0896430001",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:34",
+  "updatedAt": "2024-04-13 04:31:34"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694d"
+  },
+  "id": "29tq81zcluxlnofp",
+  "name": "Lê Đức cường",
+  "email": "",
+  "password": "$2a$12$0NaJmOMPZ4bd/Vw792hRkeN1ULvgSpaWRc/prrZ4eHbXoyVc6XIGu",
+  "role": "R2",
+  "phone": "0888880132",
+  "zalo": "0888880132",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:35",
+  "updatedAt": "2024-04-13 04:31:35"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694e"
+  },
+  "id": "29tq81zcluxlnofu",
+  "name": "thutt89",
+  "email": "",
+  "password": "$2a$12$Z9uiOJ/q80W3Lan10VQisOM/kAPtbwQPFoq51nNTxn5NGh4kDpdcO",
+  "role": "R2",
+  "phone": "0987878949",
+  "zalo": "0987878949",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:36",
+  "updatedAt": "2024-04-13 04:31:36"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c694f"
+  },
+  "id": "29tq81zcluxlnofz",
+  "name": "TÂN",
+  "email": "",
+  "password": "$2a$12$yqtK/TcWErZ8hm2pkRrlqeSl6SEvpflVMTTy76xdxdV5kX6.37KZC",
+  "role": "R2",
+  "phone": "0939273338",
+  "zalo": "0939273338",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:36",
+  "updatedAt": "2024-04-13 04:31:36"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6950"
+  },
+  "id": "29tq81zcluxlnog4",
+  "name": "huỳnh huệ bình",
+  "email": "",
+  "password": "$2a$12$wrzIZ2HYu6vWFqg/ZfbeouGPQNT19VxqP5kJenNeFlDNUSOCHrUlG",
+  "role": "R2",
+  "phone": "0909488724",
+  "zalo": "0909488724",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:43",
+  "updatedAt": "2024-04-13 04:31:43"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6951"
+  },
+  "id": "29tq81zcluxlnog9",
+  "name": "Nguyễn Văn Bên",
+  "email": "",
+  "password": "$2a$12$cxmidn86m9kcT6WSmkxT2OK9HvW/pyGRLXVW7SqsRw2BiF01ublW2",
+  "role": "R2",
+  "phone": "0904509552",
+  "zalo": "0904509552",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:37",
+  "updatedAt": "2024-04-13 04:31:37"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6952"
+  },
+  "id": "29tq81zcluxlnoge",
+  "name": "vylost297",
+  "email": "",
+  "password": "$2a$12$Il8UQ8PrH2nsz1ohmqJr9udjdEoC2ErM8azguOHD0BH0IMgLZs4zy",
+  "role": "R2",
+  "phone": "0767326068",
+  "zalo": "0767326068",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:44",
+  "updatedAt": "2024-04-13 04:31:44"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6953"
+  },
+  "id": "29tq81zcluxlnogj",
+  "name": "Nguyễn Thị Liên",
+  "email": "",
+  "password": "$2a$12$a.unq6kvvYD7EzbmZC2M1O8ZM1cqU7q7A/VnVhQ7MUNAyEQxlZqge",
+  "role": "R2",
+  "phone": "0931162255",
+  "zalo": "0931162255",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:51",
+  "updatedAt": "2024-04-13 04:31:51"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6954"
+  },
+  "id": "29tq81zcluxlnogo",
+  "name": "Trịnh Phuc",
+  "email": "",
+  "password": "$2a$12$BUKWI943CkSbvCA.bDYOOuUf7v6WOeC5ck3mixCffT.4s6DidSJlW",
+  "role": "R2",
+  "phone": "0931610338",
+  "zalo": "0931610338",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:44",
+  "updatedAt": "2024-04-13 04:31:44"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6955"
+  },
+  "id": "29tq81zcluxlnogt",
+  "name": "Nguyễn Hoàng Nhân",
+  "email": "",
+  "password": "$2a$12$whnhs9josHQ/yjAhbYx.JO7XFI3uhfCAHd5/9TAKtyK0m12ge.xNO",
+  "role": "R2",
+  "phone": "0937475715",
+  "zalo": "0937475715",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:51",
+  "updatedAt": "2024-04-13 04:31:51"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6956"
+  },
+  "id": "29tq81zcluxlnogy",
+  "name": "Nguyễn Hoàng Nhân",
+  "email": "",
+  "password": "$2a$12$n5HiT2Fn5qiGbLgCplQQju5ccsaeYmOYcl1uUmzOJQCkLv9s3qQla",
+  "role": "R2",
+  "phone": "0937475715",
+  "zalo": "0937475715",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:39",
+  "updatedAt": "2024-04-13 04:31:39"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6957"
+  },
+  "id": "29tq81zcluxlnoh3",
+  "name": "Nguyễn Hoàng Nhân",
+  "email": "",
+  "password": "$2a$12$AoLkKRilTCVDlc9k8NDzyeMGzhdJkU2q4QcknxnCKcTaOdvlyz16e",
+  "role": "R2",
+  "phone": "0937475715",
+  "zalo": "0937475715",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:42",
+  "updatedAt": "2024-04-13 04:31:42"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6958"
+  },
+  "id": "29tq81zcluxlnoh8",
+  "name": "Tài Megas",
+  "email": "",
+  "password": "$2a$12$Ok/TBMKFoiu5HXjNocKk/uAopOcHb/VbMpnEknwbZ9QzfzSm34BH6",
+  "role": "R2",
+  "phone": "0862421728",
+  "zalo": "0862421728",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:40",
+  "updatedAt": "2024-04-13 04:31:40"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6959"
+  },
+  "id": "29tq81zcluxlnohd",
+  "name": "Thanh Thơ",
+  "email": "",
+  "password": "$2a$12$ipZLL/sK/9TqPLLzOBiMAOy8bWoxu5VJUaUbFQBUIr2Auf6xN/2.C",
+  "role": "R2",
+  "phone": "0986411535",
+  "zalo": "0986411535",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:41",
+  "updatedAt": "2024-04-13 04:31:41"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695a"
+  },
+  "id": "29tq81zcluxlnohi",
+  "name": "BÙI HÀ PHIẾU",
+  "email": "",
+  "password": "$2a$12$wp765.ry7o09I2MtsrP7fefRd7/bgobddBUbIxfEH78NoDFA2F0SC",
+  "role": "R2",
+  "phone": "0583165215",
+  "zalo": "0583165215",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:42",
+  "updatedAt": "2024-04-13 04:31:42"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695b"
+  },
+  "id": "29tq81zcluxlnohn",
+  "name": "Đặng Ngọc Hải",
+  "email": "",
+  "password": "$2a$12$hDLiiuGBwttIrpu5MIhj0.g3RENEV1jPpwSnqmni61q4TiAi7O58q",
+  "role": "R2",
+  "phone": "0907852513",
+  "zalo": "0907852513",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:45",
+  "updatedAt": "2024-04-13 04:31:45"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695c"
+  },
+  "id": "29tq81zcluxlnohs",
+  "name": "Thùy Trang",
+  "email": "",
+  "password": "$2a$12$AgIVQWUoMbcAstikJg0tnO3guPsixLtZmP7GsDDTsrknOrm4MGZ4e",
+  "role": "R2",
+  "phone": "0707142793",
+  "zalo": "0707142793",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:46",
+  "updatedAt": "2024-04-13 04:31:46"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695d"
+  },
+  "id": "29tq81zcluxlnohx",
+  "name": "Trương Đình Tiến",
+  "email": "",
+  "password": "$2a$12$jvOzuVVnxfjooCd8V6cxc.6J9QQGr6q2kzpwz1FeDf3Tv0w8YQ/AG",
+  "role": "R2",
+  "phone": "0974422927",
+  "zalo": "0974422927",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:47",
+  "updatedAt": "2024-04-13 04:31:47"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695e"
+  },
+  "id": "29tq81zcluxlnoi2",
+  "name": "Zin Tân Bình",
+  "email": "",
+  "password": "$2a$12$wXd3teRwBc.VXM.1kaQa9ers.vqVCkajkfWwvmC/4/WnijaqWrzd2",
+  "role": "R2",
+  "phone": "0396042732",
+  "zalo": "0396042732",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:46",
+  "updatedAt": "2024-04-13 04:31:46"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c695f"
+  },
+  "id": "29tq81zcluxlnoi7",
+  "name": "hoangle2706",
+  "email": "",
+  "password": "$2a$12$Wx1pzB.0/EqtZc7Y24Odoe5rbgQ9aND8S8yaDFzcxKq7DwFIbO0Fq",
+  "role": "R2",
+  "phone": "0937554570",
+  "zalo": "0937554570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:52",
+  "updatedAt": "2024-04-13 04:31:52"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6960"
+  },
+  "id": "29tq81zcluxlnoic",
+  "name": "An An",
+  "email": "",
+  "password": "$2a$12$W3XcXVclJD7gS1jn9Lbhr.giODp1EP7tYa.JaucBwgsn8MlfSuE6K",
+  "role": "R2",
+  "phone": "0777077612",
+  "zalo": "0777077612",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:45",
+  "updatedAt": "2024-04-13 04:31:45"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6961"
+  },
+  "id": "29tq81zcluxlnoih",
+  "name": "An An",
+  "email": "",
+  "password": "$2a$12$KCxOJhD2DXmx.dY7eUPmWeDvx08GM7FLmfCo70875Pj1WMtz0dGWm",
+  "role": "R2",
+  "phone": "0777077612",
+  "zalo": "0777077612",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:49",
+  "updatedAt": "2024-04-13 04:31:49"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6962"
+  },
+  "id": "29tq81zcluxlnoim",
+  "name": "An An",
+  "email": "",
+  "password": "$2a$12$fgKRgEh6UarDefWhh7Gk/OtbT918s55pNQpig2HZVs2r0xMfbLgiy",
+  "role": "R2",
+  "phone": "0777077612",
+  "zalo": "0777077612",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:47",
+  "updatedAt": "2024-04-13 04:31:47"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6963"
+  },
+  "id": "29tq81zcluxlnoir",
+  "name": "Trần thanh hải",
+  "email": "",
+  "password": "$2a$12$BjwN4ufRVh0MSiBwH3F0EOgH0xEmWR6YFMyKLOFzIineNOONwBHGi",
+  "role": "R2",
+  "phone": "0933598239",
+  "zalo": "0933598239",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:48",
+  "updatedAt": "2024-04-13 04:31:48"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6964"
+  },
+  "id": "29tq81zcluxlnoiw",
+  "name": "Trần thanh hải",
+  "email": "",
+  "password": "$2a$12$MDHEQMb00/ovGWgCnlL1ROFCbALy2ntwIWVYnwGWZAOy.YICNFpBq",
+  "role": "R2",
+  "phone": "0933598239",
+  "zalo": "0933598239",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:48",
+  "updatedAt": "2024-04-13 04:31:48"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6965"
+  },
+  "id": "29tq81zcluxlnoj1",
+  "name": "Ngô Trúc Quân",
+  "email": "",
+  "password": "$2a$12$.HHEI/JsnjXRbOwVkpTb6uzaot.2Uqx.CFVa1ZbA2S1CkRplxWB/u",
+  "role": "R2",
+  "phone": "0336643754",
+  "zalo": "0336643754",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:50",
+  "updatedAt": "2024-04-13 04:31:50"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6967"
+  },
+  "id": "29tq81zcluxlnojb",
+  "name": "diep quoc hung",
+  "email": "",
+  "password": "$2a$12$vxDtzoilKdDuYv9OF8M1ju7W0AygcoGHnmxWgNH6gCqyPbfHvHTfO",
+  "role": "R2",
+  "phone": "0908381668",
+  "zalo": "0908381668",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:52",
+  "updatedAt": "2024-04-13 04:31:52"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6968"
+  },
+  "id": "29tq81zcluxlnojg",
+  "name": "Khánh",
+  "email": "",
+  "password": "$2a$12$a8krKFa3P1J0X.EH5dJYYuKE.rWIMFHEZl6X2DQy48Q5NVDmfKOgG",
+  "role": "R2",
+  "phone": "0949605388",
+  "zalo": "0949605388",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:56",
+  "updatedAt": "2024-04-13 04:31:56"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6969"
+  },
+  "id": "29tq81zcluxlnojl",
+  "name": "Phạm Tuấn Anh",
+  "email": "",
+  "password": "$2a$12$LnsQRG/agUqZJHbEMBvQxu1DODBDj9OnFo8LX7ZKXiioEYfMSbpAC",
+  "role": "R2",
+  "phone": "0947776788",
+  "zalo": "0947776788",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:57",
+  "updatedAt": "2024-04-13 04:31:57"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696a"
+  },
+  "id": "29tq81zcluxlnojq",
+  "name": "hoangle2706",
+  "email": "",
+  "password": "$2a$12$Opky0SSFAUh9YVoDk/VWtOxsUTgsxyyoEgKbAijxX/QR1BJhnNJiO",
+  "role": "R2",
+  "phone": "0937554570",
+  "zalo": "0937554570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:50",
+  "updatedAt": "2024-04-13 04:31:50"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696b"
+  },
+  "id": "29tq81zcluxlnojv",
+  "name": "hoangle2706",
+  "email": "",
+  "password": "$2a$12$ymLxffx0jBiFiItOjTDmJe7ZTcx.AkeaEjGwS8sj.VGX8oq5XWN.6",
+  "role": "R2",
+  "phone": "0937554570",
+  "zalo": "0937554570",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:59",
+  "updatedAt": "2024-04-13 04:31:59"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696c"
+  },
+  "id": "29tq81zcluxlnok0",
+  "name": "Nguyen anh Tuan",
+  "email": "",
+  "password": "$2a$12$mUCgx4Gh2hOS9bFI.54re.fsnvXUr3.xAOk9kBSX95p7HX.lO9i.S",
+  "role": "R2",
+  "phone": "0369259945",
+  "zalo": "0369259945",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:57",
+  "updatedAt": "2024-04-13 04:31:57"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696d"
+  },
+  "id": "29tq81zcluxlnok5",
+  "name": "Nguyễn Xuân Công",
+  "email": "",
+  "password": "$2a$12$ZkPzXXQR5kybEWtPK63ebuQENMXJ07GCDALd2D6BDY12tM5Nvi0HS",
+  "role": "R2",
+  "phone": "0936481998",
+  "zalo": "0936481998",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:32:00",
+  "updatedAt": "2024-04-13 04:32:00"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696e"
+  },
+  "id": "29tq81zcluxlnoka",
+  "name": "Nguyễn Trọng Đức",
+  "email": "",
+  "password": "$2a$12$AVYcbKhbXykEsrp4aZ49/eCmqGpBR6ZXGUQfUIqi9c5YhcycM2v.u",
+  "role": "R2",
+  "phone": "0384015119",
+  "zalo": "0384015119",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:53",
+  "updatedAt": "2024-04-13 04:31:53"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c696f"
+  },
+  "id": "29tq81zcluxlnokf",
+  "name": "Dương Ngọc Thủ",
+  "email": "",
+  "password": "$2a$12$B7g/A5HjqBg0VaGQ28auP.T23s24OGiRUK/CLQAW7WzrfdAiLKjpK",
+  "role": "R2",
+  "phone": "0902973753",
+  "zalo": "0902973753",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:53",
+  "updatedAt": "2024-04-13 04:31:53"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6970"
+  },
+  "id": "29tq81zcluxlnokk",
+  "name": "Dương Ngọc Thủ",
+  "email": "",
+  "password": "$2a$12$gytVNFgflHZRtpxtA2IFgeYOH9aolKHe99KgLxrFQr0e8otSfhdMm",
+  "role": "R2",
+  "phone": "0902973753",
+  "zalo": "0902973753",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:54",
+  "updatedAt": "2024-04-13 04:31:54"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6971"
+  },
+  "id": "29tq81zcluxlnokp",
+  "name": "lê thị tính",
+  "email": "",
+  "password": "$2a$12$ZXT/UK83TSJnU0n56.bH5OzM3UqjST68YNMQRIsGohiWA8BJF9Z1W",
+  "role": "R2",
+  "phone": "0974810740",
+  "zalo": "0974810740",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:54",
+  "updatedAt": "2024-04-13 04:31:54"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6972"
+  },
+  "id": "29tq81zcluxlnoku",
+  "name": "Duong",
+  "email": "",
+  "password": "$2a$12$2AuI4eosxyu/24t0O4Fmh.bcuwec/ARmoX8ZkSW6QDFgrn5d12IG.",
+  "role": "R2",
+  "phone": "0906416110",
+  "zalo": "0906416110",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:55",
+  "updatedAt": "2024-04-13 04:31:55"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6973"
+  },
+  "id": "29tq81zcluxlnokz",
+  "name": "Nguyễn huy cao",
+  "email": "",
+  "password": "$2a$12$IFQ4FxJFJJtbQIMj0lHqLeKNNvWP7cCHmxgB6u88aSCevsJhKIsSW",
+  "role": "R2",
+  "phone": "0937114757",
+  "zalo": "0937114757",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:55",
+  "updatedAt": "2024-04-13 04:31:55"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6974"
+  },
+  "id": "29tq81zcluxlnol4",
+  "name": "Hoàng Dung",
+  "email": "",
+  "password": "$2a$12$mmk.kxYAI9LJqLfUR/GTT.cWqfe8sZoBvZ.pg5D0oXiSC3hh8W7jS",
+  "role": "R2",
+  "phone": "0979698768",
+  "zalo": "0979698768",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:31:56",
+  "updatedAt": "2024-04-13 04:31:56"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6975"
+  },
+  "id": "29tq81zcluxlnol9",
+  "name": "Van Helen",
+  "email": "",
+  "password": "$2a$12$DOjLWJfOQ4NQW0oT3P..b.3hQsBC9EJ4CSmCGxvKdzSMO4c6RRxVq",
+  "role": "R2",
+  "phone": "0902395366",
+  "zalo": "0902395366",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:32:01",
+  "updatedAt": "2024-04-13 04:32:01"
+},
+{
+  "_id": {
+    "$oid": "673f3765be4ce0a0329c6976"
+  },
+  "id": "29tq81zcluxlnole",
+  "name": "nguyen thi phuc",
+  "email": "",
+  "password": "$2a$12$Q.djaE.HYOKueuE4Dpaai.pK/giliBfQF8uutQzqQ4K6nAhxJJVmS",
+  "role": "R2",
+  "phone": "0397077772",
+  "zalo": "0397077772",
+  "fbUrl": "",
+  "avatar": "https://www.nicepng.com/png/detail/115-1150821_default-avatar-comments-sign-in-icon-png.png",
+  "resetPasswordToken": "",
+  "resetPasswordExpiry": "",
+  "createdAt": "2024-04-13 04:32:00",
+  "updatedAt": "2024-04-13 04:32:00"
+},
+{
+  "_id": {
+    "$oid": "673f3806135b9f2a283902ee"
+  },
+  "id": "15fd0yo2d1om3rczklg",
+  "name": "Lê Vũ Xuân An",
+  "email": "0832415045",
+  "password": "$2a$12$XdOdDOmueEI4yUa/YdgpcehgwG8Q.4UC4orsL.dWrwbDESDARwc/C",
+  "role": "R1",
+  "phone": "0832415045",
+  "zalo": "0832415046",
+  "createdAt": {
+    "$date": "2024-11-21T13:39:18.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T03:28:01.757Z"
+  },
+  "__v": 0,
+  "fbUrl": "https://www.facebook.com/xuanan.levu",
+  "resetPasswordExpiry": {
+    "$date": "2025-06-10T04:48:01.474Z"
+  },
+  "resetPasswordToken": "d6cfa1f95886c0755ed1236d6c9801f45fbaede524835694502689959e644a1f",
+  "avatar": "https://res.cloudinary.com/dkuqcvs6j/image/upload/v1750390075/AVATAR_GMAIL_zafmks.png"
+},
+{
+  "_id": {
+    "$oid": "673f48a3135b9f2a28390385"
+  },
+  "id": "15fd0yo2d1om3rfiq69",
+  "name": "Nguyen Van A",
+  "email": "an@gmail.com",
+  "password": "$2a$12$0BQWVgXVeUGBHBTI0xa3kesYnxMGTfzOC1KtWN3vsdtG8Mjm0ctWS",
+  "role": "R1",
+  "phone": "0123456789",
+  "zalo": "0123456789",
+  "createdAt": {
+    "$date": "2024-11-21T14:50:11.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T14:50:11.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67407a01cf2a891c6b7b59d0"
+  },
+  "id": "15fd0yo1thom3sq296w",
+  "name": "levuxuanan",
+  "email": "levuxuanan@gmail.com",
+  "password": "$2a$12$sBEZYMogzUcUgclbqXAZ8uSWP8BzZ6ZN9KcYcyjvnt1hXtckQd0ii",
+  "role": "R1",
+  "phone": "0977293996",
+  "zalo": "0977293996",
+  "createdAt": {
+    "$date": "2024-11-22T12:33:05.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:33:05.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67407a8b54516ae2105c4c93"
+  },
+  "id": "15fd0yo20b0m3sq57lt",
+  "name": "Lê Vũ Xuân An",
+  "email": "levuxuanan2003.pl@gmail.com",
+  "password": "$2a$12$ANHCUknAfVgmBihOGr73/.Z/nd7T1ZCzT0azSI4UyzEh7NCCmoHxe",
+  "role": "R2",
+  "phone": "0832415046",
+  "zalo": "0832415046",
+  "createdAt": {
+    "$date": "2024-11-22T12:35:23.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T01:38:30.173Z"
+  },
+  "__v": 0,
+  "fbUrl": "link"
+},
+{
+  "_id": {
+    "$oid": "67409fc8721712430c2fcaed"
+  },
+  "id": "15fd0yo1bo0m3svtja8",
+  "name": "Nguyễn Văn A",
+  "email": "nguyenvana@gmail.com",
+  "password": "$2a$12$YsABbDSxIGsJxNNuS0vuF.1XvsHzdA2IZjy6z.wIy0o8ZcXxlCNEa",
+  "role": "R2",
+  "phone": "0945741962",
+  "zalo": "0945741962",
+  "createdAt": {
+    "$date": "2024-11-22T15:14:16.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T15:14:16.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740ae637e4765e0aa10d975"
+  },
+  "id": "15fd0yodrgm3sy1od8",
+  "name": "Vũ Xuân Hinh",
+  "email": "chutro@gmail.com",
+  "password": "$2a$12$qBW1nFcbSf6cr98eup69BOlGdiXMCarGuywQFm.hRdo49itHdGmpm",
+  "role": "R2",
+  "phone": "0832415047",
+  "zalo": "0832415047",
+  "createdAt": {
+    "$date": "2024-11-22T16:16:35.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:17:38.881Z"
+  },
+  "__v": 0,
+  "fbUrl": "https://www.facebook.com/xuanan.levu",
+  "avatar": "https://res.cloudinary.com/dkuqcvs6j/image/upload/v1750393056/508349676_698063226176262_1999071529519977008_n_nrvadg.jpg"
+},
+{
+  "_id": {
+    "$oid": "6740b36d7e4765e0aa10db3b"
+  },
+  "id": "15fd0yodrgm3sytbum",
+  "name": "Chủ trọ 2",
+  "email": "chutro2@gmail.com",
+  "password": "$2a$12$nHr3KPvIicTdRrth.i9XDOdzKL7uOmjYQqZCnWGVSqfkLWGYoceH.",
+  "role": "R2",
+  "phone": "0832415048",
+  "zalo": "0832415048",
+  "createdAt": {
+    "$date": "2024-11-22T16:38:05.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:38:05.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740b6077e4765e0aa10dc27"
+  },
+  "id": "15fd0yodrgm3sz7lsj",
+  "name": "Chủ trọ 3",
+  "email": "chutro3@gmail.com",
+  "password": "$2a$12$nZvOrVhJI5fgm.z.cRY5LOCSpa3BuMvytD6zmBIkS9aCAhDUrH7.K",
+  "role": "R2",
+  "phone": "0832415049",
+  "zalo": "0832415049",
+  "createdAt": {
+    "$date": "2024-11-22T16:49:11.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:49:11.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6749141bd66987bc0e848ba0"
+  },
+  "id": "15fd0yo3a18m421p4mz",
+  "name": "Võ Thị Như Ý",
+  "email": "vothinhuy@gmail.com",
+  "password": "$2a$12$fMrEovvQe94gTEsG7vpJN.KkEwnJcLMD96Qe4fVg5.tgiDPMLhDPa",
+  "role": "R2",
+  "phone": "0899891422",
+  "zalo": "0899891422",
+  "createdAt": {
+    "$date": "2024-11-29T01:08:43.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:47:06.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c573df8fa6c77151afbfb"
+  },
+  "id": "15fd0yog9ombv1pfao",
+  "name": "Nguyễn Thị Huyên",
+  "email": "huyennguyen@gmail.com",
+  "password": "$2a$12$u7SxLGwo..Iwvek6dftpnuzv5AL8Yc0YzEtPVBUpcDNF9h2nARA5C",
+  "role": "R2",
+  "phone": "0868660377",
+  "zalo": "0868660377",
+  "createdAt": {
+    "$date": "2025-06-13T16:52:13.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:08:20.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5d0af8fa6c77151b00b8"
+  },
+  "id": "15fd0yog9ombv2l9po",
+  "name": "0975281904",
+  "email": "thuongly@gmail.com",
+  "password": "$2a$12$AgxngOzV1EqILycFzBSJ4e2SpTSCIRoK70kV63QHAlELzwyIxpuSS",
+  "role": "R2",
+  "phone": "0975281904",
+  "zalo": "0975281904",
+  "createdAt": {
+    "$date": "2025-06-13T17:16:58.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T17:16:58.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d683a8aaa4700fb6952bf"
+  },
+  "id": "15fd0yok14mbw7bb3i",
+  "name": "Nguyễn Tấn Tài",
+  "email": "nguyentantai@gmail.com",
+  "password": "$2a$12$V/JWrpRlIpuSwsQjftJvzOXggozmyzjcpMTsZa9NOEpc8qOpW6tji",
+  "role": "R2",
+  "phone": "0397448509",
+  "zalo": "0397448509",
+  "createdAt": {
+    "$date": "2025-06-14T12:16:58.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:16:58.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d68938aaa4700fb6952dd"
+  },
+  "id": "15fd0yok14mbw7d88b",
+  "name": "Lê Công Khang",
+  "email": "lecongkhang@gmail.com",
+  "password": "$2a$12$q642TJCqI9D222vqkfjx.Oj5GGsEjAuT8CIMHffYJlc.usSqtjDlK",
+  "role": "R2",
+  "phone": "039",
+  "zalo": "039",
+  "createdAt": {
+    "$date": "2025-06-14T12:18:27.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:18:27.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a10bc264e275d4d1d4f0"
+  },
+  "id": "15fd0yombomc413p9h",
+  "name": "Bùi Công Nam",
+  "email": "buicongnam@gmail.com",
+  "password": "$2a$12$9rb2Sr.S4ljdv3rCWEEHLO8.wUAec2heZM4O35ymjM028iZ5bEYzK",
+  "role": "R2",
+  "phone": "0832415044",
+  "zalo": "0832415044",
+  "createdAt": {
+    "$date": "2025-06-19T23:45:15.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T23:45:15.174Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,625 @@
+[{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6849"
+  },
+  "id": 1,
+  "code": "OUHO",
+  "value": "Cho thuê phòng trọ Quận Gò Vấp",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684a"
+  },
+  "id": 2,
+  "code": "OAHU",
+  "value": "Cho thuê phòng trọ Quận Thủ Đức",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2025-06-20T00:19:57.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684b"
+  },
+  "id": 3,
+  "code": "OAHN",
+  "value": "Cho thuê phòng trọ Quận Tân Bình",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684c"
+  },
+  "id": 4,
+  "code": "OQPN",
+  "value": "Cho thuê phòng trọ Quận 10",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684d"
+  },
+  "id": 5,
+  "code": "OOPN",
+  "value": "Cho thuê phòng trọ Quận 7",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684e"
+  },
+  "id": 6,
+  "code": "OYHH",
+  "value": "Cho thuê phòng trọ Huyện Nhà Bè",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c684f"
+  },
+  "id": 7,
+  "code": "ONAB",
+  "value": "Cho thuê mặt bằng Quận Tân Bình",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6850"
+  },
+  "id": 8,
+  "code": "ONTC",
+  "value": "Cho thuê mặt bằng Huyện Bình Chánh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6851"
+  },
+  "id": 9,
+  "code": "ONTU",
+  "value": "Cho thuê mặt bằng Quận Nam Từ Liêm",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6852"
+  },
+  "id": 10,
+  "code": "OQM1",
+  "value": "Cho thuê mặt bằng Quận 12",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6853"
+  },
+  "id": 11,
+  "code": "OEAU",
+  "value": "Cho thuê mặt bằng Huyện Phú Giáo",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6854"
+  },
+  "id": 12,
+  "code": "ONAC",
+  "value": "Cho thuê mặt bằng Quận Hải Châu",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6855"
+  },
+  "id": 13,
+  "code": "OEAN",
+  "value": "Cho thuê mặt bằng Huyện Vĩnh Cửu",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6856"
+  },
+  "id": 14,
+  "code": "OBTT",
+  "value": "Cho thuê mặt bằng Quận Bình Thạnh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6857"
+  },
+  "id": 15,
+  "code": "OQMN",
+  "value": "Cho thuê mặt bằng Quận 9",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2024-12-15T05:35:45.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6858"
+  },
+  "id": 16,
+  "code": "ONOT",
+  "value": "Cho thuê phòng trọ Quận Bình Thạnh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2025-06-13T17:26:55.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6859"
+  },
+  "id": 17,
+  "code": "OTTH",
+  "value": "Cho thuê mặt bằng Quận Thanh Xuân",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685a"
+  },
+  "id": 18,
+  "code": "OAAU",
+  "value": "Cho thuê mặt bằng Quận Thủ Đức",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2025-06-19T23:31:47.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685b"
+  },
+  "id": 19,
+  "code": "OUE2",
+  "value": "Cho thuê căn hộ Quận 2",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685c"
+  },
+  "id": 20,
+  "code": "OUNA",
+  "value": "Cho thuê căn hộ dịch vụ Quận Tân Bình",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685d"
+  },
+  "id": 21,
+  "code": "OQNA",
+  "value": "Cho thuê căn hộ dịch vụ Quận Tân Phú",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685e"
+  },
+  "id": 22,
+  "code": "OQNG",
+  "value": "Cho thuê căn hộ dịch vụ Quận Gò Vấp",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c685f"
+  },
+  "id": 23,
+  "code": "OAHH",
+  "value": "Cho thuê căn hộ dịch vụ Quận Bình Thạnh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6860"
+  },
+  "id": 24,
+  "code": "OUE7",
+  "value": "Cho thuê căn hộ Quận 7",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6861"
+  },
+  "id": 25,
+  "code": "OICA",
+  "value": "Cho thuê căn hộ mini Quận 7",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6862"
+  },
+  "id": 26,
+  "code": "OVAA",
+  "value": "Cho thuê căn hộ dịch vụ Quận 12",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6863"
+  },
+  "id": 27,
+  "code": "OHNY",
+  "value": "Cho thuê căn hộ Thành Phố Quy Nhơn",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6864"
+  },
+  "id": 28,
+  "code": "OANN",
+  "value": "Cho thuê căn hộ mini Quận Tân Bình",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6865"
+  },
+  "id": 29,
+  "code": "OIAH",
+  "value": "Cho thuê căn hộ Quận Bình Thạnh",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6866"
+  },
+  "id": 30,
+  "code": "OUE9",
+  "value": "Cho thuê căn hộ Quận 9",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": {
+    "$date": "2025-06-14T12:44:02.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6867"
+  },
+  "id": 31,
+  "code": "OAE2",
+  "value": "Cho thuê nhà Quận 12",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6868"
+  },
+  "id": 32,
+  "code": "OANI",
+  "value": "Cho thuê nhà Quận Tân Bình",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6869"
+  },
+  "id": 33,
+  "code": "OINT",
+  "value": "Cho thuê nhà Quận Bình Tân",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686a"
+  },
+  "id": 34,
+  "code": "OAEU",
+  "value": "Cho thuê nhà Quận 7",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686b"
+  },
+  "id": 35,
+  "code": "OGNA",
+  "value": "Cho thuê nhà Quận Gò Vấp",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686c"
+  },
+  "id": 36,
+  "code": "OONI",
+  "value": "Cho thuê nhà Quận Hoàn Kiếm",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686d"
+  },
+  "id": 37,
+  "code": "OTNN",
+  "value": "Cho thuê nhà Huyện Thuận An",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686e"
+  },
+  "id": 38,
+  "code": "OMHI",
+  "value": "Cho thuê nhà Quận Nam Từ Liêm",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c686f"
+  },
+  "id": 39,
+  "code": "OHNM",
+  "value": "Cho thuê nhà Huyện Hóc Môn",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6870"
+  },
+  "id": 40,
+  "code": "OTNU",
+  "value": "Cho thuê nhà Quận Thủ Đức",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6871"
+  },
+  "id": 41,
+  "code": "OONM",
+  "value": "Cho thuê nhà Quận Hoàng Mai",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "673f3735be4ce0a0329c6872"
+  },
+  "id": 42,
+  "code": "OTNH",
+  "value": "Cho thuê nhà Quận Tân Phú",
+  "createdAt": "2024-04-13 04:31:16",
+  "updatedAt": "2024-04-13 04:31:16"
+},
+{
+  "_id": {
+    "$oid": "6740776665df60ead6c272e1"
+  },
+  "code": "ONCM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-22T12:21:58.902Z"
+  },
+  "id": "15fd0yo1d4sm3spnz06",
+  "updatedAt": {
+    "$date": "2024-11-22T12:21:58.902Z"
+  },
+  "value": "Cho thuê căn hộ Quận Cẩm Lệ"
+},
+{
+  "_id": {
+    "$oid": "6740b028b75d37fe711ab974"
+  },
+  "code": "OYAO",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-22T16:24:08.984Z"
+  },
+  "id": "15fd0yodrgm3sybehk",
+  "updatedAt": {
+    "$date": "2024-11-22T16:24:08.984Z"
+  },
+  "value": "Cho thuê mặt bằng Huyện Cờ Đỏ"
+},
+{
+  "_id": {
+    "$oid": "6843a47a9b004704b317ab5f"
+  },
+  "code": "ATHU",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-07T02:31:22.188Z"
+  },
+  "id": "15fd0yo1z0omblmb970",
+  "updatedAt": {
+    "$date": "2025-06-20T04:26:21.901Z"
+  },
+  "value": "Nhà cho thuê Quận Thủ Đức"
+},
+{
+  "_id": {
+    "$oid": "6846e9489b004704b317ab61"
+  },
+  "code": "OUHA",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-09T14:01:44.026Z"
+  },
+  "id": "15fd0yo504gmbp5urtm",
+  "updatedAt": {
+    "$date": "2025-06-09T14:01:44.026Z"
+  },
+  "value": "Cho thuê phòng trọ Quận Hải An"
+},
+{
+  "_id": {
+    "$oid": "6849c3ef4537142ac15b0b31"
+  },
+  "code": "OATC",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T17:59:11.280Z"
+  },
+  "id": "15fd0yovkgmbs97ueo",
+  "updatedAt": {
+    "$date": "2025-06-11T17:59:11.280Z"
+  },
+  "value": "Cho thuê mặt bằng Thị xã Phước Long"
+},
+{
+  "_id": {
+    "$oid": "6849c8dc4537142ac15b0b33"
+  },
+  "code": "ONAQ",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:20:12.299Z"
+  },
+  "id": "15fd0yo1m00mbs9yvez",
+  "updatedAt": {
+    "$date": "2025-06-11T18:20:12.299Z"
+  },
+  "value": "Cho thuê mặt bằng Quận Ngô Quyền"
+},
+{
+  "_id": {
+    "$oid": "6849cb6c4537142ac15b0b35"
+  },
+  "code": "OAAĐ",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:31:08.589Z"
+  },
+  "id": "15fd0yo1m00mbsacxta",
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:58.946Z"
+  },
+  "value": "Cho thuê mặt bằng Quận Ba Đình"
+},
+{
+  "_id": {
+    "$oid": "6849d0f74537142ac15b0b37"
+  },
+  "code": "OHAK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T18:54:47.367Z"
+  },
+  "id": "15fd0yo22ngmbsb7cjr",
+  "updatedAt": {
+    "$date": "2025-06-11T18:54:47.367Z"
+  },
+  "value": "Cho thuê căn hộ Quận Hoàn Kiếm"
+},
+{
+  "_id": {
+    "$oid": "684c59ca1f2ee54ef23824c8"
+  },
+  "code": "OAHC",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:03:06.251Z"
+  },
+  "id": "15fd0yog9ombv23f9o",
+  "updatedAt": {
+    "$date": "2025-06-13T17:03:06.251Z"
+  },
+  "value": "Cho thuê phòng trọ Quận Lê Chân"
+},
+{
+  "_id": {
+    "$oid": "684c5d951f2ee54ef23824cc"
+  },
+  "code": "OCAI",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:19:17.547Z"
+  },
+  "id": "15fd0yog9ombv2o8q3",
+  "updatedAt": {
+    "$date": "2025-06-13T17:19:17.547Z"
+  },
+  "value": "Cho thuê căn hộ Quận Cầu Giấy"
+},
+{
+  "_id": {
+    "$oid": "684c5e1f1f2ee54ef23824ce"
+  },
+  "code": "OHAG",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-13T17:21:35.522Z"
+  },
+  "id": "15fd0yog9ombv2r76q",
+  "updatedAt": {
+    "$date": "2025-06-13T17:21:35.522Z"
+  },
+  "value": "Cho thuê căn hộ Quận Hoàng Mai"
+},
+{
+  "_id": {
+    "$oid": "68538efad2040db4c48c3989"
+  },
+  "code": "ONAN",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-19T04:15:53.993Z"
+  },
+  "id": "15fd0yo3tmwmc2vbwjt",
+  "updatedAt": {
+    "$date": "2025-06-19T04:15:53.993Z"
+  },
+  "value": "Cho thuê mặt bằng Quận Thanh Khê"
+},
+{
+  "_id": {
+    "$oid": "68a1d77eeefcb48c541074cf"
+  },
+  "code": "OUE1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-17T13:22:06.044Z"
+  },
+  "id": "15fd0yo3guwmefptkyk",
+  "updatedAt": {
+    "$date": "2025-08-17T13:22:06.044Z"
+  },
+  "value": "Cho thuê căn hộ Quận 1"
+}]

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6740ac767e4765e0aa10d7f3"
+  },
+  "id": "15fd0yodrgm3sxr3xc",
+  "uid": "15fd0yo2d1om3rczklg",
+  "content": "hỏi thử admin",
+  "pid": "29tq81zcluxlnoas",
+  "createdAt": {
+    "$date": "2024-11-22T16:08:22.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T16:08:22.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6753fdc835ce1b774acd36bc"
+  },
+  "id": "15fd0yodt8m4dvhxnu",
+  "uid": "15fd0yo2d1om3rczklg",
+  "content": "xuân an gửi đánh giá ngày T7",
+  "pid": "29tq81zcluxlnoas",
+  "createdAt": {
+    "$date": "2024-12-07T07:48:24.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T07:48:24.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683dc6d3073832e3fa0a97ee"
+  },
+  "id": "15fd0yo2hlgmbf9fr25",
+  "uid": "15fd0yo2d1om3rczklg",
+  "content": "hello ",
+  "pid": "29tq81zcluxlnobc",
+  "createdAt": {
+    "$date": "2025-06-02T15:44:19.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T15:44:19.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68465e4ac6042f16f7f1ca1c"
+  },
+  "id": "15fd0yo4cpwmboko50b",
+  "uid": "15fd0yo2d1om3rczklg",
+  "content": "hello",
+  "pid": "29tq81zcluxlnoas",
+  "createdAt": {
+    "$date": "2025-06-09T04:08:42.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-09T04:08:42.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a64b1a8426282b517739"
+  },
+  "id": "15fd0yovh0mc41wiqz",
+  "uid": "15fd0yodrgm3sy1od8",
+  "content": "Phúc hi",
+  "pid": "15fd0yombomc4100n3",
+  "createdAt": {
+    "$date": "2025-06-20T00:07:39.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T00:07:39.755Z"
+  },
+  "__v": 0
+}]

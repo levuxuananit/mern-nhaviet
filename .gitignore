@@ -1,0 +1,29 @@
+# Các thư mục chứa thư viện (Dependencies)
+node_modules/
+.pnp
+.pnp.js
+
+# Các file build (Production)
+dist/         
+build/         
+/out-tsc
+
+# Các file môi trường nhạy cảm (Environment variables)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# File hệ thống của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Logs ứng dụng
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+/coverage
