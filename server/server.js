@@ -4,40 +4,45 @@ import mongoose from "mongoose";
 import cors from "cors";
 import initRoutes from "./src/routes/index.js";
 import path from "path";
+import fs from "fs";
+import { fileURLToPath } from "url";
 
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+dotenv.config({ path: path.join(__dirname, ".env") });
 
 const app = express();
-const __dirname = path.resolve();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Cấu hình CORS linh hoạt hơn
 const isProduction = process.env.NODE_ENV === "production";
-if (!isProduction) {
-  app.use(
-    cors({
-      origin: process.env.CLIENT_URL || "http://localhost:3000",
-      methods: ["POST", "GET", "PUT", "DELETE"],
-      credentials: true,
-    }),
-  );
-}
 
-// Khởi tạo routes của bạn
+app.use(
+  cors({
+    origin: process.env.CLIENT_URL || "http://localhost:3000",
+    methods: ["POST", "GET", "PUT", "DELETE"],
+    credentials: true,
+  }),
+);
+
+// API routes: luôn đăng ký, cả local lẫn production
 initRoutes(app);
 
-// Serve Frontend ở môi trường Production
-if (isProduction) {
-  // Đi ngược từ server/ ra thư mục gốc rồi vào client/build hoặc client/dist (nếu dùng Vite)
-  const clientBuildPath = path.resolve(__dirname, "..", "client", "build");
+// Serve frontend nếu đã có bản build, KHÔNG phụ thuộc vào NODE_ENV
+const clientBuildPath = path.resolve(__dirname, "..", "client", "build");
 
+if (fs.existsSync(clientBuildPath)) {
   app.use(express.static(clientBuildPath));
 
   app.get("*", (req, res) => {
     res.sendFile(path.join(clientBuildPath, "index.html"));
   });
+} else if (!isProduction) {
+  console.warn(
+    "⚠ Chưa có client/build. Chạy 'npm run build-client' nếu muốn server serve luôn frontend.",
+  );
 }
 
 const port = process.env.PORT || 8888;

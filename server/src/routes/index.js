@@ -1,28 +1,33 @@
-import authRouter from './auth.js'
-import insertRouter from './insert.js'
-import categoryRouter from './category.js'
-import postRouter from './post.js'
-import priceRouter from './price.js'
-import areaRouter from './area.js'
-import provinceRouter from './province.js'
-import userRouter from './user.js'
-import comment from './comment.js'
-import { notFound, errorHandler } from '../middlewares/errHandler.js'
+import express from "express";
+import authRouter from "./auth.js";
+import insertRouter from "./insert.js";
+import categoryRouter from "./category.js";
+import postRouter from "./post.js";
+import priceRouter from "./price.js";
+import areaRouter from "./area.js";
+import provinceRouter from "./province.js";
+import userRouter from "./user.js";
+import comment from "./comment.js";
+import { notFound, errorHandler } from "../middlewares/errHandler.js";
 
 const initRoutes = (app) => {
-    app.use('/api/v1/auth', authRouter)
-    app.use('/api/v1/insert', insertRouter)
-    app.use('/api/v1/category', categoryRouter)
-    app.use('/api/v1/post', postRouter)
-    app.use('/api/v1/price', priceRouter)
-    app.use('/api/v1/area', areaRouter)
-    app.use('/api/v1/province', provinceRouter)
-    app.use('/api/v1/comment', comment)
-    app.use('/api/v1/user', userRouter)
+  const apiRouter = express.Router();
 
-    app.use(notFound)
-    app.use(errorHandler)
+  apiRouter.use("/auth", authRouter);
+  apiRouter.use("/insert", insertRouter);
+  apiRouter.use("/category", categoryRouter);
+  apiRouter.use("/post", postRouter);
+  apiRouter.use("/price", priceRouter);
+  apiRouter.use("/area", areaRouter);
+  apiRouter.use("/province", provinceRouter);
+  apiRouter.use("/comment", comment);
+  apiRouter.use("/user", userRouter);
 
-}
+  // notFound và errorHandler giờ chỉ áp dụng cho các request bên trong /api/v1
+  apiRouter.use(notFound);
+  apiRouter.use(errorHandler);
 
-export default initRoutes
+  app.use("/api/v1", apiRouter);
+};
+
+export default initRoutes;
