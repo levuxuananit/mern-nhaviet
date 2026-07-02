@@ -84,8 +84,8 @@ Follow these steps to set up the project locally.
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- A [MongoDB Atlas](https://www.mongodb.com/atlas) connection string (or local MongoDB instance)
-- A [Cloudinary](https://cloudinary.com/) account (for image uploads)
+- [MongoDB Atlas](https://www.mongodb.com/atlas) (or local MongoDB instance)
+- [Cloudinary](https://cloudinary.com/) (for image uploads)
 
 ### 4.2. Installation <a name = "installation"></a>
 
